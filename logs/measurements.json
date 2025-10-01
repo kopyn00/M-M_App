@@ -1,0 +1,494 @@
+{
+    "device_1": [
+        {
+            "id": "f",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Hz",
+            "value": 49.995
+        },
+        {
+            "id": "u1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 223.86
+        },
+        {
+            "id": "u2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 224.536
+        },
+        {
+            "id": "u3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 224.181
+        },
+        {
+            "id": "u12",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 387.929
+        },
+        {
+            "id": "u23",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 388.744
+        },
+        {
+            "id": "u31",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "V",
+            "value": 388.256
+        },
+        {
+            "id": "i1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "A",
+            "value": 25.044
+        },
+        {
+            "id": "i2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "A",
+            "value": 21.402
+        },
+        {
+            "id": "i3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "A",
+            "value": 22.46
+        },
+        {
+            "id": "in",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "A",
+            "value": 5.107
+        },
+        {
+            "id": "p1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "W",
+            "value": 4147.454
+        },
+        {
+            "id": "p2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "W",
+            "value": 2921.164
+        },
+        {
+            "id": "p3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "W",
+            "value": 3050.772
+        },
+        {
+            "id": "q1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "var",
+            "value": -3763.615
+        },
+        {
+            "id": "q2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "var",
+            "value": -3813.465
+        },
+        {
+            "id": "q3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "var",
+            "value": -4002.892
+        },
+        {
+            "id": "s1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VA",
+            "value": 5603.051
+        },
+        {
+            "id": "s2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VA",
+            "value": 4805.464
+        },
+        {
+            "id": "s3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VA",
+            "value": 5034.77
+        },
+        {
+            "id": "pf1",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": " ",
+            "value": 0.74
+        },
+        {
+            "id": "pf2",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": " ",
+            "value": 0.608
+        },
+        {
+            "id": "pf3",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": " ",
+            "value": 0.606
+        },
+        {
+            "id": "p",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "W",
+            "value": 10119.39
+        },
+        {
+            "id": "q",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "var",
+            "value": -11579.972
+        },
+        {
+            "id": "s",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VA",
+            "value": 15378.481
+        },
+        {
+            "id": "pf",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": " ",
+            "value": 0.658
+        }
+    ],
+    "device_2": [
+        {
+            "id": "f",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Hz",
+            "value": 49.997
+        },
+        {
+            "id": "u1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 223.78
+        },
+        {
+            "id": "u2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 224.543
+        },
+        {
+            "id": "u3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 224.222
+        },
+        {
+            "id": "u12",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 387.889
+        },
+        {
+            "id": "u23",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 388.72
+        },
+        {
+            "id": "u31",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "V",
+            "value": 388.268
+        },
+        {
+            "id": "i1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "A",
+            "value": 19.771
+        },
+        {
+            "id": "i2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "A",
+            "value": 19.129
+        },
+        {
+            "id": "i3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "A",
+            "value": 25.721
+        },
+        {
+            "id": "in",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "A",
+            "value": 9.044
+        },
+        {
+            "id": "p1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "W",
+            "value": -2607.114
+        },
+        {
+            "id": "p2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "W",
+            "value": 2796.541
+        },
+        {
+            "id": "p3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "W",
+            "value": -1226.291
+        },
+        {
+            "id": "q1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "var",
+            "value": -3569.203
+        },
+        {
+            "id": "q2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "var",
+            "value": -3255.153
+        },
+        {
+            "id": "q3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "var",
+            "value": 5627.976
+        },
+        {
+            "id": "s1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VA",
+            "value": 4421.625
+        },
+        {
+            "id": "s2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VA",
+            "value": 4292.017
+        },
+        {
+            "id": "s3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VA",
+            "value": 5762.569
+        },
+        {
+            "id": "pf1",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": " ",
+            "value": 0.59
+        },
+        {
+            "id": "pf2",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": " ",
+            "value": 0.652
+        },
+        {
+            "id": "pf3",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": " ",
+            "value": 0.213
+        },
+        {
+            "id": "p",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "W",
+            "value": -1036.864
+        },
+        {
+            "id": "q",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "var",
+            "value": -1196.381
+        },
+        {
+            "id": "s",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VA",
+            "value": 1580.22
+        },
+        {
+            "id": "pf",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": " ",
+            "value": -0.656
+        }
+    ],
+    "device_3": [
+        {
+            "id": "f",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Hz",
+            "value": 49.995
+        },
+        {
+            "id": "u1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 224.219
+        },
+        {
+            "id": "u2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 223.767
+        },
+        {
+            "id": "u3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 224.309
+        },
+        {
+            "id": "u12",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 388.261
+        },
+        {
+            "id": "u23",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 387.667
+        },
+        {
+            "id": "u31",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "V",
+            "value": 388.517
+        },
+        {
+            "id": "i1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "A",
+            "value": 12.017
+        },
+        {
+            "id": "i2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "A",
+            "value": 12.01
+        },
+        {
+            "id": "i3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "A",
+            "value": 12.614
+        },
+        {
+            "id": "in",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "A",
+            "value": 0
+        },
+        {
+            "id": "p1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "W",
+            "value": 1939.134
+        },
+        {
+            "id": "p2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "W",
+            "value": 2063.757
+        },
+        {
+            "id": "p3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "W",
+            "value": 2023.878
+        },
+        {
+            "id": "q1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "var",
+            "value": 1864.36
+        },
+        {
+            "id": "q2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "var",
+            "value": 1719.798
+        },
+        {
+            "id": "q3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "var",
+            "value": 1969.044
+        },
+        {
+            "id": "s1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VA",
+            "value": 2691.857
+        },
+        {
+            "id": "s2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VA",
+            "value": 2686.872
+        },
+        {
+            "id": "s3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VA",
+            "value": 2826.45
+        },
+        {
+            "id": "pf1",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": " ",
+            "value": 0.72
+        },
+        {
+            "id": "pf2",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": " ",
+            "value": 0.768
+        },
+        {
+            "id": "pf3",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": " ",
+            "value": 0.716
+        },
+        {
+            "id": "p",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "W",
+            "value": 6026.77
+        },
+        {
+            "id": "q",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "var",
+            "value": 5553.202
+        },
+        {
+            "id": "s",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VA",
+            "value": 8190.225
+        },
+        {
+            "id": "pf",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": " ",
+            "value": 0.736
+        }
+    ]
+}

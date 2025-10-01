@@ -1,0 +1,1532 @@
+[2025-09-14 12:46:23] [SYSTEM] Program started
+[2025-09-14 12:46:23] [OEE] Loaded data
+[2025-09-14 12:46:23] [REST device_1] first conn attempt 1
+[2025-09-14 12:46:23] [METERS device_1] first conn attempt 1
+[2025-09-14 12:46:23] [MQTT] First connect attempt
+[2025-09-14 12:46:23] [FLOW] Data restored in mqttFlow.json
+[2025-09-14 12:46:23] [REST device_2] first conn attempt 1
+[2025-09-14 12:46:23] [OEE_TEMP] Data restored in oee.json
+[2025-09-14 12:46:23] [SYSTEM] App is alive
+[2025-09-14 12:46:23] [REST device_3] first conn attempt 1
+[2025-09-14 12:46:23] [METERS device_3] first conn attempt 1
+[2025-09-14 12:46:23] [SHIFT] Prev shift (UTC): start=2025-09-14T04:00:00Z, end=2025-09-14T12:00:00Z
+[2025-09-14 12:46:23] [METERS device_2] first conn attempt 1
+[2025-09-14 12:46:23] [MQTT] went OFFLINE (network Error : dial tcp 192.168.1.153:1883: connect: no route to host)
+[2025-09-14 12:46:25] [METERS device_1] first conn attempt 2
+[2025-09-14 12:46:25] [REST device_1] first conn attempt 2
+[2025-09-14 12:46:25] [REST device_2] first conn attempt 2
+[2025-09-14 12:46:25] [METERS device_2] first conn attempt 2
+[2025-09-14 12:46:25] [METERS device_3] first conn attempt 2
+[2025-09-14 12:46:25] [REST device_3] first conn attempt 2
+[2025-09-14 12:46:26] [METERS device_3] first conn attempt 3
+[2025-09-14 12:46:26] [REST device_3] first conn attempt 3
+[2025-09-14 12:46:27] [REST device_1] first conn attempt 3
+[2025-09-14 12:46:27] [METERS device_1] first conn attempt 3
+[2025-09-14 12:46:27] [METERS device_2] first conn attempt 3
+[2025-09-14 12:46:27] [REST device_2] first conn attempt 3
+[2025-09-14 13:16:23] [SYSTEM] App is alive
+[2025-09-14 13:46:23] [SYSTEM] App is alive
+[2025-09-14 14:00:00] [SHIFT_SUMMARY] Data restored in shift_summary.json
+[2025-09-14 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-14 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-14 14:00:00] [SHIFT] Boundary passed – local: 2025-09-14T14:00:00.061940299+02:00, UTC: 2025-09-14T12:00:00.061940299Z
+[2025-09-14 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-14T12:00:00Z, end=2025-09-14T20:00:00Z
+[2025-09-14 14:16:23] [SYSTEM] App is alive
+[2025-09-14 14:46:23] [SYSTEM] App is alive
+[2025-09-14 15:16:23] [SYSTEM] App is alive
+[2025-09-14 15:46:23] [SYSTEM] App is alive
+[2025-09-14 16:16:23] [SYSTEM] App is alive
+[2025-09-14 16:46:23] [SYSTEM] App is alive
+[2025-09-14 17:16:23] [SYSTEM] App is alive
+[2025-09-14 17:46:23] [SYSTEM] App is alive
+[2025-09-14 18:16:23] [SYSTEM] App is alive
+[2025-09-14 18:46:23] [SYSTEM] App is alive
+[2025-09-14 19:16:23] [SYSTEM] App is alive
+[2025-09-14 19:46:23] [SYSTEM] App is alive
+[2025-09-14 20:16:23] [SYSTEM] App is alive
+[2025-09-14 20:46:23] [SYSTEM] App is alive
+[2025-09-14 21:16:23] [SYSTEM] App is alive
+[2025-09-14 21:46:23] [SYSTEM] App is alive
+[2025-09-14 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-14 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-14 22:00:00] [SHIFT] Boundary passed – local: 2025-09-14T22:00:00.058973688+02:00, UTC: 2025-09-14T20:00:00.058973688Z
+[2025-09-14 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-14T20:00:00Z, end=2025-09-15T04:00:00Z
+[2025-09-14 22:16:23] [SYSTEM] App is alive
+[2025-09-14 22:46:23] [SYSTEM] App is alive
+[2025-09-14 23:16:23] [SYSTEM] App is alive
+[2025-09-14 23:46:23] [SYSTEM] App is alive
+[2025-09-15 00:16:23] [SYSTEM] App is alive
+[2025-09-15 00:46:23] [SYSTEM] App is alive
+[2025-09-15 01:16:23] [SYSTEM] App is alive
+[2025-09-15 01:46:23] [SYSTEM] App is alive
+[2025-09-15 02:16:23] [SYSTEM] App is alive
+[2025-09-15 02:46:23] [SYSTEM] App is alive
+[2025-09-15 03:16:23] [SYSTEM] App is alive
+[2025-09-15 03:46:23] [SYSTEM] App is alive
+[2025-09-15 04:16:23] [SYSTEM] App is alive
+[2025-09-15 04:46:23] [SYSTEM] App is alive
+[2025-09-15 05:16:23] [SYSTEM] App is alive
+[2025-09-15 05:46:23] [SYSTEM] App is alive
+[2025-09-15 05:50:13] [REST device_2] is ONLINE again
+[2025-09-15 05:50:13] [METERS device_2] is ONLINE again
+[2025-09-15 05:50:14] [METERS device_1] is ONLINE again
+[2025-09-15 05:50:14] [REST device_1] is ONLINE again
+[2025-09-15 05:50:15] [METERS] Data restored in meters.json
+[2025-09-15 05:50:19] [MEASUREMENTS] Data restored in measurements.json
+[2025-09-15 05:50:45] [MQTT] Client running, waiting for messages
+[2025-09-15 05:50:45] [MQTT] Connected to broker
+[2025-09-15 05:50:45] [MQTT] is ONLINE again
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-15 05:50:45] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-15 05:50:55] [METERS device_3] is ONLINE again
+[2025-09-15 05:50:55] [REST device_3] is ONLINE again
+[2025-09-15 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-15 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-15 06:00:00] [SHIFT] Boundary passed – local: 2025-09-15T06:00:00.044822119+02:00, UTC: 2025-09-15T04:00:00.044822119Z
+[2025-09-15 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-15T04:00:00Z, end=2025-09-15T12:00:00Z
+[2025-09-15 06:16:23] [SYSTEM] App is alive
+[2025-09-15 06:26:38] [INFO] AdjustIdleToChangeover: range start=1757910334.000 end=1757910398.000 (sec epoch)
+[2025-09-15 06:32:09] [INFO] AdjustIdleToChangeover: range start=1757910607.000 end=1757910729.000 (sec epoch)
+[2025-09-15 06:43:59] [INFO] AdjustIdleToChangeover: range start=1757911361.000 end=1757911439.000 (sec epoch)
+[2025-09-15 06:46:23] [SYSTEM] App is alive
+[2025-09-15 06:46:57] [INFO] AdjustIdleToChangeover: range start=1757911557.000 end=1757911617.000 (sec epoch)
+[2025-09-15 06:51:57] [INFO] AdjustIdleToChangeover: range start=1757911831.000 end=1757911917.000 (sec epoch)
+[2025-09-15 06:54:48] [INFO] AdjustIdleToChangeover: range start=1757912020.000 end=1757912088.000 (sec epoch)
+[2025-09-15 06:57:40] [INFO] AdjustIdleToChangeover: range start=1757912203.000 end=1757912260.000 (sec epoch)
+[2025-09-15 07:05:02] [INFO] AdjustIdleToChangeover: range start=1757912637.000 end=1757912702.000 (sec epoch)
+[2025-09-15 07:08:37] [INFO] AdjustIdleToChangeover: range start=1757912869.000 end=1757912917.000 (sec epoch)
+[2025-09-15 07:16:23] [SYSTEM] App is alive
+[2025-09-15 07:16:58] [INFO] AdjustIdleToChangeover: range start=1757913297.000 end=1757913418.000 (sec epoch)
+[2025-09-15 07:28:55] [INFO] AdjustIdleToChangeover: range start=1757914042.000 end=1757914135.000 (sec epoch)
+[2025-09-15 07:32:54] [INFO] AdjustIdleToChangeover: range start=1757914309.000 end=1757914374.000 (sec epoch)
+[2025-09-15 07:46:23] [SYSTEM] App is alive
+[2025-09-15 07:58:48] [INFO] AdjustIdleToChangeover: range start=1757915873.000 end=1757915928.000 (sec epoch)
+[2025-09-15 08:04:10] [INFO] AdjustIdleToChangeover: range start=1757916192.000 end=1757916250.000 (sec epoch)
+[2025-09-15 08:16:23] [SYSTEM] App is alive
+[2025-09-15 08:18:54] [INFO] AdjustIdleToChangeover: range start=1757917065.000 end=1757917134.000 (sec epoch)
+[2025-09-15 08:26:29] [INFO] AdjustIdleToChangeover: range start=1757917509.000 end=1757917589.000 (sec epoch)
+[2025-09-15 08:43:31] [INFO] AdjustIdleToChangeover: range start=1757918562.000 end=1757918611.000 (sec epoch)
+[2025-09-15 08:46:23] [SYSTEM] App is alive
+[2025-09-15 08:51:24] [INFO] AdjustIdleToChangeover: range start=1757919022.000 end=1757919084.000 (sec epoch)
+[2025-09-15 09:16:23] [SYSTEM] App is alive
+[2025-09-15 09:22:05] [OEE] Long changeover (1478s) counted as pause
+[2025-09-15 09:28:08] [INFO] AdjustIdleToChangeover: range start=1757921237.000 end=1757921288.000 (sec epoch)
+[2025-09-15 09:35:23] [INFO] AdjustIdleToChangeover: range start=1757921613.000 end=1757921723.000 (sec epoch)
+[2025-09-15 09:46:23] [SYSTEM] App is alive
+[2025-09-15 09:58:11] [INFO] AdjustIdleToChangeover: range start=1757923017.000 end=1757923091.000 (sec epoch)
+[2025-09-15 10:04:57] [INFO] AdjustIdleToChangeover: range start=1757923412.000 end=1757923497.000 (sec epoch)
+[2025-09-15 10:06:54] [INFO] AdjustIdleToChangeover: range start=1757923548.000 end=1757923614.000 (sec epoch)
+[2025-09-15 10:08:13] [INFO] AdjustIdleToChangeover: range start=1757923652.000 end=1757923693.000 (sec epoch)
+[2025-09-15 10:13:09] [INFO] AdjustIdleToChangeover: range start=1757923893.000 end=1757923989.000 (sec epoch)
+[2025-09-15 10:16:18] [INFO] AdjustIdleToChangeover: range start=1757924091.000 end=1757924178.000 (sec epoch)
+[2025-09-15 10:16:23] [SYSTEM] App is alive
+[2025-09-15 10:23:51] [INFO] AdjustIdleToChangeover: range start=1757924567.000 end=1757924631.000 (sec epoch)
+[2025-09-15 10:32:31] [INFO] AdjustIdleToChangeover: range start=1757925090.000 end=1757925151.000 (sec epoch)
+[2025-09-15 10:43:17] [INFO] AdjustIdleToChangeover: range start=1757925629.000 end=1757925797.000 (sec epoch)
+[2025-09-15 10:46:23] [SYSTEM] App is alive
+[2025-09-15 10:49:01] [INFO] AdjustIdleToChangeover: range start=1757926081.000 end=1757926141.000 (sec epoch)
+[2025-09-15 10:51:30] [INFO] AdjustIdleToChangeover: range start=1757926221.000 end=1757926290.000 (sec epoch)
+[2025-09-15 10:55:01] [INFO] AdjustIdleToChangeover: range start=1757926456.000 end=1757926501.000 (sec epoch)
+[2025-09-15 10:59:26] [INFO] AdjustIdleToChangeover: range start=1757926708.000 end=1757926766.000 (sec epoch)
+[2025-09-15 11:03:33] [INFO] AdjustIdleToChangeover: range start=1757926960.000 end=1757927013.000 (sec epoch)
+[2025-09-15 11:12:11] [INFO] AdjustIdleToChangeover: range start=1757927460.000 end=1757927531.000 (sec epoch)
+[2025-09-15 11:16:23] [SYSTEM] App is alive
+[2025-09-15 11:24:55] [INFO] AdjustIdleToChangeover: range start=1757928225.000 end=1757928295.000 (sec epoch)
+[2025-09-15 11:31:40] [INFO] AdjustIdleToChangeover: range start=1757928639.000 end=1757928700.000 (sec epoch)
+[2025-09-15 11:39:17] [INFO] AdjustIdleToChangeover: range start=1757928967.000 end=1757929157.000 (sec epoch)
+[2025-09-15 11:46:23] [SYSTEM] App is alive
+[2025-09-15 11:46:45] [INFO] AdjustIdleToChangeover: range start=1757929548.000 end=1757929605.000 (sec epoch)
+[2025-09-15 11:55:21] [INFO] AdjustIdleToChangeover: range start=1757930058.000 end=1757930121.000 (sec epoch)
+[2025-09-15 12:01:38] [INFO] AdjustIdleToChangeover: range start=1757930448.000 end=1757930498.000 (sec epoch)
+[2025-09-15 12:11:57] [INFO] AdjustIdleToChangeover: range start=1757931067.000 end=1757931117.000 (sec epoch)
+[2025-09-15 12:16:23] [SYSTEM] App is alive
+[2025-09-15 12:20:30] [INFO] AdjustIdleToChangeover: range start=1757931538.000 end=1757931630.000 (sec epoch)
+[2025-09-15 12:46:23] [SYSTEM] App is alive
+[2025-09-15 12:53:38] [INFO] AdjustIdleToChangeover: range start=1757933518.000 end=1757933618.000 (sec epoch)
+[2025-09-15 12:57:17] [INFO] AdjustIdleToChangeover: range start=1757933769.000 end=1757933837.000 (sec epoch)
+[2025-09-15 13:02:32] [INFO] AdjustIdleToChangeover: range start=1757934078.000 end=1757934152.000 (sec epoch)
+[2025-09-15 13:10:35] [INFO] AdjustIdleToChangeover: range start=1757934531.000 end=1757934635.000 (sec epoch)
+[2025-09-15 13:13:22] [INFO] AdjustIdleToChangeover: range start=1757934737.000 end=1757934802.000 (sec epoch)
+[2025-09-15 13:16:23] [SYSTEM] App is alive
+[2025-09-15 13:16:38] [INFO] AdjustIdleToChangeover: range start=1757934946.000 end=1757934998.000 (sec epoch)
+[2025-09-15 13:18:53] [INFO] AdjustIdleToChangeover: range start=1757935051.000 end=1757935133.000 (sec epoch)
+[2025-09-15 13:22:04] [INFO] AdjustIdleToChangeover: range start=1757935253.000 end=1757935324.000 (sec epoch)
+[2025-09-15 13:24:06] [INFO] AdjustIdleToChangeover: range start=1757935359.000 end=1757935446.000 (sec epoch)
+[2025-09-15 13:36:44] [INFO] AdjustIdleToChangeover: range start=1757936149.000 end=1757936204.000 (sec epoch)
+[2025-09-15 13:46:23] [SYSTEM] App is alive
+[2025-09-15 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-15 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-15 14:00:00] [SHIFT] Boundary passed – local: 2025-09-15T14:00:00.071360943+02:00, UTC: 2025-09-15T12:00:00.071360943Z
+[2025-09-15 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-15T12:00:00Z, end=2025-09-15T20:00:00Z
+[2025-09-15 14:13:11] [INFO] AdjustIdleToChangeover: range start=1757938338.000 end=1757938391.000 (sec epoch)
+[2025-09-15 14:16:23] [SYSTEM] App is alive
+[2025-09-15 14:46:23] [SYSTEM] App is alive
+[2025-09-15 14:51:39] [INFO] AdjustIdleToChangeover: range start=1757940635.000 end=1757940699.000 (sec epoch)
+[2025-09-15 15:08:01] [INFO] AdjustIdleToChangeover: range start=1757941639.000 end=1757941681.000 (sec epoch)
+[2025-09-15 15:16:23] [SYSTEM] App is alive
+[2025-09-15 15:34:16] [INFO] AdjustIdleToChangeover: range start=1757943166.000 end=1757943256.000 (sec epoch)
+[2025-09-15 15:46:13] [INFO] AdjustIdleToChangeover: range start=1757943897.000 end=1757943973.000 (sec epoch)
+[2025-09-15 15:46:23] [SYSTEM] App is alive
+[2025-09-15 15:57:55] [INFO] AdjustIdleToChangeover: range start=1757944529.000 end=1757944675.000 (sec epoch)
+[2025-09-15 16:05:25] [INFO] AdjustIdleToChangeover: range start=1757945068.000 end=1757945125.000 (sec epoch)
+[2025-09-15 16:16:23] [SYSTEM] App is alive
+[2025-09-15 16:18:30] [INFO] AdjustIdleToChangeover: range start=1757945827.000 end=1757945910.000 (sec epoch)
+[2025-09-15 16:28:32] [INFO] AdjustIdleToChangeover: range start=1757946458.000 end=1757946512.000 (sec epoch)
+[2025-09-15 16:34:22] [INFO] AdjustIdleToChangeover: range start=1757946810.000 end=1757946862.000 (sec epoch)
+[2025-09-15 16:41:01] [INFO] AdjustIdleToChangeover: range start=1757947208.000 end=1757947261.000 (sec epoch)
+[2025-09-15 16:44:27] [INFO] AdjustIdleToChangeover: range start=1757947370.000 end=1757947467.000 (sec epoch)
+[2025-09-15 16:46:23] [SYSTEM] App is alive
+[2025-09-15 16:49:10] [INFO] AdjustIdleToChangeover: range start=1757947707.000 end=1757947750.000 (sec epoch)
+[2025-09-15 16:55:41] [INFO] AdjustIdleToChangeover: range start=1757948095.000 end=1757948141.000 (sec epoch)
+[2025-09-15 16:57:11] [INFO] AdjustIdleToChangeover: range start=1757948154.000 end=1757948231.000 (sec epoch)
+[2025-09-15 17:16:23] [SYSTEM] App is alive
+[2025-09-15 17:46:23] [SYSTEM] App is alive
+[2025-09-15 18:16:23] [SYSTEM] App is alive
+[2025-09-15 18:16:48] [INFO] AdjustIdleToChangeover: range start=1757952945.000 end=1757953008.000 (sec epoch)
+[2025-09-15 18:23:13] [INFO] AdjustIdleToChangeover: range start=1757953344.000 end=1757953393.000 (sec epoch)
+[2025-09-15 18:29:16] [INFO] AdjustIdleToChangeover: range start=1757953678.000 end=1757953756.000 (sec epoch)
+[2025-09-15 18:32:40] [INFO] AdjustIdleToChangeover: range start=1757953891.000 end=1757953960.000 (sec epoch)
+[2025-09-15 18:46:23] [SYSTEM] App is alive
+[2025-09-15 18:53:58] [INFO] AdjustIdleToChangeover: range start=1757955191.000 end=1757955238.000 (sec epoch)
+[2025-09-15 18:56:29] [INFO] AdjustIdleToChangeover: range start=1757955351.000 end=1757955389.000 (sec epoch)
+[2025-09-15 19:02:24] [INFO] AdjustIdleToChangeover: range start=1757955694.000 end=1757955744.000 (sec epoch)
+[2025-09-15 19:16:23] [SYSTEM] App is alive
+[2025-09-15 19:46:23] [SYSTEM] App is alive
+[2025-09-15 20:07:48] [INFO] AdjustIdleToChangeover: range start=1757959631.000 end=1757959668.000 (sec epoch)
+[2025-09-15 20:16:23] [SYSTEM] App is alive
+[2025-09-15 20:25:49] [INFO] AdjustIdleToChangeover: range start=1757960676.000 end=1757960749.000 (sec epoch)
+[2025-09-15 20:38:55] [INFO] AdjustIdleToChangeover: range start=1757961457.000 end=1757961535.000 (sec epoch)
+[2025-09-15 20:43:15] [SYSTEM] Stop signal received – shutting down.
+[2025-09-15 20:43:27] [SYSTEM] Program started
+[2025-09-15 20:43:27] [OEE] Loaded data
+[2025-09-15 20:43:27] [MQTT] First connect attempt
+[2025-09-15 20:43:27] [REST device_3] first conn attempt 1
+[2025-09-15 20:43:27] [METERS device_1] first conn attempt 1
+[2025-09-15 20:43:27] [REST device_1] first conn attempt 1
+[2025-09-15 20:43:27] [REST device_2] first conn attempt 1
+[2025-09-15 20:43:27] [METERS device_3] first conn attempt 1
+[2025-09-15 20:43:27] [METERS device_2] first conn attempt 1
+[2025-09-15 20:43:27] [SYSTEM] App is alive
+[2025-09-15 20:43:27] [SHIFT] Prev shift (UTC): start=2025-09-15T12:00:00Z, end=2025-09-15T20:00:00Z
+[2025-09-15 20:43:27] [OEE_TEMP] Data restored in oee.json
+[2025-09-15 20:43:27] [MQTT] Client running, waiting for messages
+[2025-09-15 20:43:27] [FLOW] Data restored in mqttFlow.json
+[2025-09-15 20:43:27] [MQTT] Connected to broker
+[2025-09-15 20:43:27] [METERS] Data restored in meters.json
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-15 20:43:27] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-15 20:43:37] [MEASUREMENTS] Data restored in measurements.json
+[2025-09-15 20:45:56] [INFO] AdjustIdleToChangeover: range start=1757961902.000 end=1757961956.000 (sec epoch)
+[2025-09-15 20:54:16] [INFO] AdjustIdleToChangeover: range start=1757962395.000 end=1757962456.000 (sec epoch)
+[2025-09-15 21:01:11] [INFO] AdjustIdleToChangeover: range start=1757962778.000 end=1757962871.000 (sec epoch)
+[2025-09-15 21:06:36] [INFO] AdjustIdleToChangeover: range start=1757963156.000 end=1757963196.000 (sec epoch)
+[2025-09-15 21:13:27] [SYSTEM] App is alive
+[2025-09-15 21:16:53] [INFO] AdjustIdleToChangeover: range start=1757963759.000 end=1757963813.000 (sec epoch)
+[2025-09-15 21:20:23] [INFO] AdjustIdleToChangeover: range start=1757963975.000 end=1757964023.000 (sec epoch)
+[2025-09-15 21:25:18] [INFO] AdjustIdleToChangeover: range start=1757964267.000 end=1757964318.000 (sec epoch)
+[2025-09-15 21:35:39] [INFO] AdjustIdleToChangeover: range start=1757964859.000 end=1757964939.000 (sec epoch)
+[2025-09-15 21:43:02] [INFO] AdjustIdleToChangeover: range start=1757965329.000 end=1757965382.000 (sec epoch)
+[2025-09-15 21:43:27] [SYSTEM] App is alive
+[2025-09-15 21:45:05] [INFO] AdjustIdleToChangeover: range start=1757965445.000 end=1757965505.000 (sec epoch)
+[2025-09-15 22:00:00] [SHIFT_SUMMARY] Data restored in shift_summary.json
+[2025-09-15 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-15 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-15 22:00:00] [SHIFT] Boundary passed – local: 2025-09-15T22:00:00.073169422+02:00, UTC: 2025-09-15T20:00:00.073169422Z
+[2025-09-15 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-15T20:00:00Z, end=2025-09-16T04:00:00Z
+[2025-09-15 22:13:27] [SYSTEM] App is alive
+[2025-09-15 22:43:18] [INFO] AdjustIdleToChangeover: range start=1757968953.000 end=1757968998.000 (sec epoch)
+[2025-09-15 22:43:27] [SYSTEM] App is alive
+[2025-09-15 22:59:48] [INFO] AdjustIdleToChangeover: range start=1757969938.000 end=1757969988.000 (sec epoch)
+[2025-09-15 23:03:42] [INFO] AdjustIdleToChangeover: range start=1757970154.000 end=1757970222.000 (sec epoch)
+[2025-09-15 23:13:27] [SYSTEM] App is alive
+[2025-09-15 23:40:30] [INFO] AdjustIdleToChangeover: range start=1757972376.000 end=1757972430.000 (sec epoch)
+[2025-09-15 23:43:27] [SYSTEM] App is alive
+[2025-09-15 23:45:04] [INFO] AdjustIdleToChangeover: range start=1757972643.000 end=1757972704.000 (sec epoch)
+[2025-09-15 23:46:04] [INFO] AdjustIdleToChangeover: range start=1757972715.000 end=1757972764.000 (sec epoch)
+[2025-09-16 00:04:21] [INFO] AdjustIdleToChangeover: range start=1757973807.000 end=1757973861.000 (sec epoch)
+[2025-09-16 00:09:24] [INFO] AdjustIdleToChangeover: range start=1757974098.000 end=1757974164.000 (sec epoch)
+[2025-09-16 00:13:27] [SYSTEM] App is alive
+[2025-09-16 00:40:33] [INFO] AdjustIdleToChangeover: range start=1757975945.000 end=1757976033.000 (sec epoch)
+[2025-09-16 00:43:27] [SYSTEM] App is alive
+[2025-09-16 00:52:51] [INFO] AdjustIdleToChangeover: range start=1757976695.000 end=1757976771.000 (sec epoch)
+[2025-09-16 00:55:01] [INFO] AdjustIdleToChangeover: range start=1757976851.000 end=1757976901.000 (sec epoch)
+[2025-09-16 01:05:23] [INFO] AdjustIdleToChangeover: range start=1757977479.000 end=1757977523.000 (sec epoch)
+[2025-09-16 01:12:35] [INFO] AdjustIdleToChangeover: range start=1757977908.000 end=1757977955.000 (sec epoch)
+[2025-09-16 01:13:27] [SYSTEM] App is alive
+[2025-09-16 01:23:11] [INFO] AdjustIdleToChangeover: range start=1757978537.000 end=1757978591.000 (sec epoch)
+[2025-09-16 01:43:27] [SYSTEM] App is alive
+[2025-09-16 02:13:27] [SYSTEM] App is alive
+[2025-09-16 02:43:27] [SYSTEM] App is alive
+[2025-09-16 02:49:02] [INFO] AdjustIdleToChangeover: range start=1757983680.000 end=1757983742.000 (sec epoch)
+[2025-09-16 02:53:14] [INFO] AdjustIdleToChangeover: range start=1757983933.000 end=1757983994.000 (sec epoch)
+[2025-09-16 02:57:52] [INFO] AdjustIdleToChangeover: range start=1757984224.000 end=1757984272.000 (sec epoch)
+[2025-09-16 03:13:27] [SYSTEM] App is alive
+[2025-09-16 03:43:27] [SYSTEM] App is alive
+[2025-09-16 03:48:26] [INFO] AdjustIdleToChangeover: range start=1757987244.000 end=1757987306.000 (sec epoch)
+[2025-09-16 04:13:27] [SYSTEM] App is alive
+[2025-09-16 04:15:14] [INFO] AdjustIdleToChangeover: range start=1757988823.000 end=1757988914.000 (sec epoch)
+[2025-09-16 04:33:06] [INFO] AdjustIdleToChangeover: range start=1757989933.000 end=1757989986.000 (sec epoch)
+[2025-09-16 04:43:27] [SYSTEM] App is alive
+[2025-09-16 04:45:37] [INFO] AdjustIdleToChangeover: range start=1757990671.000 end=1757990737.000 (sec epoch)
+[2025-09-16 05:02:31] [INFO] AdjustIdleToChangeover: range start=1757991685.000 end=1757991751.000 (sec epoch)
+[2025-09-16 05:05:09] [INFO] AdjustIdleToChangeover: range start=1757991856.000 end=1757991909.000 (sec epoch)
+[2025-09-16 05:07:19] [INFO] AdjustIdleToChangeover: range start=1757991971.000 end=1757992039.000 (sec epoch)
+[2025-09-16 05:13:27] [SYSTEM] App is alive
+[2025-09-16 05:18:56] [INFO] AdjustIdleToChangeover: range start=1757992658.000 end=1757992736.000 (sec epoch)
+[2025-09-16 05:29:09] [INFO] AdjustIdleToChangeover: range start=1757993298.000 end=1757993349.000 (sec epoch)
+[2025-09-16 05:30:48] [INFO] AdjustIdleToChangeover: range start=1757993382.000 end=1757993448.000 (sec epoch)
+[2025-09-16 05:36:19] [INFO] AdjustIdleToChangeover: range start=1757993714.000 end=1757993779.000 (sec epoch)
+[2025-09-16 05:43:27] [SYSTEM] App is alive
+[2025-09-16 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-16 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-16 06:00:00] [SHIFT] Boundary passed – local: 2025-09-16T06:00:00.082167808+02:00, UTC: 2025-09-16T04:00:00.082167808Z
+[2025-09-16 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-16T04:00:00Z, end=2025-09-16T12:00:00Z
+[2025-09-16 06:13:27] [SYSTEM] App is alive
+[2025-09-16 06:43:27] [SYSTEM] App is alive
+[2025-09-16 07:13:27] [SYSTEM] App is alive
+[2025-09-16 07:43:27] [SYSTEM] App is alive
+[2025-09-16 08:13:27] [SYSTEM] App is alive
+[2025-09-16 08:43:27] [SYSTEM] App is alive
+[2025-09-16 09:13:27] [SYSTEM] App is alive
+[2025-09-16 09:31:41] [SYSTEM] Stop signal received – shutting down.
+[2025-09-16 09:31:51] [SYSTEM] Program started
+[2025-09-16 09:31:51] [OEE] Loaded data
+[2025-09-16 09:31:51] [REST device_1] first conn attempt 1
+[2025-09-16 09:31:51] [MQTT] First connect attempt
+[2025-09-16 09:31:51] [SHIFT] Prev shift (UTC): start=2025-09-16T04:00:00Z, end=2025-09-16T12:00:00Z
+[2025-09-16 09:31:51] [SYSTEM] App is alive
+[2025-09-16 09:31:51] [METERS device_1] first conn attempt 1
+[2025-09-16 09:31:51] [REST device_3] first conn attempt 1
+[2025-09-16 09:31:51] [METERS device_2] first conn attempt 1
+[2025-09-16 09:31:51] [REST device_2] first conn attempt 1
+[2025-09-16 09:31:51] [METERS device_3] first conn attempt 1
+[2025-09-16 09:31:51] [FLOW] Data restored in mqttFlow.json
+[2025-09-16 09:31:51] [OEE_TEMP] Data restored in oee.json
+[2025-09-16 09:31:51] [METERS] Data restored in meters.json
+[2025-09-16 09:31:51] [MQTT] Client running, waiting for messages
+[2025-09-16 09:31:51] [MQTT] Connected to broker
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-16 09:31:51] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-16 09:32:01] [MEASUREMENTS] Data restored in measurements.json
+[2025-09-16 09:45:03] [OEE] Long changeover (3872s) counted as pause
+[2025-09-16 10:01:51] [SYSTEM] App is alive
+[2025-09-16 10:31:51] [SYSTEM] App is alive
+[2025-09-16 10:35:34] [SYSTEM] Stop signal received – shutting down.
+[2025-09-16 10:35:46] [SYSTEM] Program started
+[2025-09-16 10:35:46] [OEE] Loaded data
+[2025-09-16 10:35:46] [REST device_1] first conn attempt 1
+[2025-09-16 10:35:46] [SHIFT] Prev shift (UTC): start=2025-09-16T04:00:00Z, end=2025-09-16T12:00:00Z
+[2025-09-16 10:35:46] [METERS device_1] first conn attempt 1
+[2025-09-16 10:35:46] [REST device_2] first conn attempt 1
+[2025-09-16 10:35:46] [MQTT] First connect attempt
+[2025-09-16 10:35:46] [REST device_3] first conn attempt 1
+[2025-09-16 10:35:46] [METERS device_3] first conn attempt 1
+[2025-09-16 10:35:46] [SYSTEM] App is alive
+[2025-09-16 10:35:46] [METERS device_2] first conn attempt 1
+[2025-09-16 10:35:46] [FLOW] Data restored in mqttFlow.json
+[2025-09-16 10:35:46] [MEASUREMENTS] Data restored in measurements.json
+[2025-09-16 10:35:46] [METERS] Data restored in meters.json
+[2025-09-16 10:35:46] [MQTT] Client running, waiting for messages
+[2025-09-16 10:35:46] [MQTT] Connected to broker
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-16 10:35:46] [OEE_TEMP] Data restored in oee.json
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-16 10:35:46] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-16 11:05:46] [SYSTEM] App is alive
+[2025-09-16 11:35:46] [SYSTEM] App is alive
+[2025-09-16 12:05:46] [SYSTEM] App is alive
+[2025-09-16 12:35:46] [SYSTEM] App is alive
+[2025-09-16 13:05:46] [SYSTEM] App is alive
+[2025-09-16 13:35:46] [SYSTEM] App is alive
+[2025-09-16 14:00:00] [SHIFT_SUMMARY] Data restored in shift_summary.json
+[2025-09-16 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-16 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-16 14:00:00] [SHIFT] Boundary passed – local: 2025-09-16T14:00:00.066766404+02:00, UTC: 2025-09-16T12:00:00.066766404Z
+[2025-09-16 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-16T12:00:00Z, end=2025-09-16T20:00:00Z
+[2025-09-16 14:05:46] [SYSTEM] App is alive
+[2025-09-16 14:35:46] [SYSTEM] App is alive
+[2025-09-16 15:05:46] [SYSTEM] App is alive
+[2025-09-16 15:35:46] [SYSTEM] App is alive
+[2025-09-16 16:05:46] [SYSTEM] App is alive
+[2025-09-16 16:35:46] [SYSTEM] App is alive
+[2025-09-16 17:05:46] [SYSTEM] App is alive
+[2025-09-16 17:35:46] [SYSTEM] App is alive
+[2025-09-16 18:05:46] [SYSTEM] App is alive
+[2025-09-16 18:35:46] [SYSTEM] App is alive
+[2025-09-16 19:05:46] [SYSTEM] App is alive
+[2025-09-16 19:35:46] [SYSTEM] App is alive
+[2025-09-16 20:05:46] [SYSTEM] App is alive
+[2025-09-16 20:35:46] [SYSTEM] App is alive
+[2025-09-16 21:05:46] [SYSTEM] App is alive
+[2025-09-16 21:35:46] [SYSTEM] App is alive
+[2025-09-16 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-16 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-16 22:00:00] [SHIFT] Boundary passed – local: 2025-09-16T22:00:00.064095775+02:00, UTC: 2025-09-16T20:00:00.064095775Z
+[2025-09-16 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-16T20:00:00Z, end=2025-09-17T04:00:00Z
+[2025-09-16 22:05:46] [SYSTEM] App is alive
+[2025-09-16 22:35:46] [SYSTEM] App is alive
+[2025-09-16 23:05:46] [SYSTEM] App is alive
+[2025-09-16 23:35:46] [SYSTEM] App is alive
+[2025-09-17 00:05:46] [SYSTEM] App is alive
+[2025-09-17 00:35:46] [SYSTEM] App is alive
+[2025-09-17 01:05:46] [SYSTEM] App is alive
+[2025-09-17 01:35:46] [SYSTEM] App is alive
+[2025-09-17 02:05:46] [SYSTEM] App is alive
+[2025-09-17 02:35:46] [SYSTEM] App is alive
+[2025-09-17 03:05:46] [SYSTEM] App is alive
+[2025-09-17 03:35:46] [SYSTEM] App is alive
+[2025-09-17 04:05:46] [SYSTEM] App is alive
+[2025-09-17 04:35:46] [SYSTEM] App is alive
+[2025-09-17 05:05:46] [SYSTEM] App is alive
+[2025-09-17 05:35:46] [SYSTEM] App is alive
+[2025-09-17 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-17 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-17 06:00:00] [SHIFT] Boundary passed – local: 2025-09-17T06:00:00.054797672+02:00, UTC: 2025-09-17T04:00:00.054797672Z
+[2025-09-17 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-17T04:00:00Z, end=2025-09-17T12:00:00Z
+[2025-09-17 06:05:46] [SYSTEM] App is alive
+[2025-09-17 06:35:46] [SYSTEM] App is alive
+[2025-09-17 07:05:46] [SYSTEM] App is alive
+[2025-09-17 07:35:46] [SYSTEM] App is alive
+[2025-09-17 08:05:46] [SYSTEM] App is alive
+[2025-09-17 08:35:46] [SYSTEM] App is alive
+[2025-09-17 09:05:46] [SYSTEM] App is alive
+[2025-09-17 09:35:46] [SYSTEM] App is alive
+[2025-09-17 10:05:46] [SYSTEM] App is alive
+[2025-09-17 10:35:46] [SYSTEM] App is alive
+[2025-09-17 11:05:46] [SYSTEM] App is alive
+[2025-09-17 11:35:46] [SYSTEM] App is alive
+[2025-09-17 12:05:46] [SYSTEM] App is alive
+[2025-09-17 12:35:46] [SYSTEM] App is alive
+[2025-09-17 13:05:46] [SYSTEM] App is alive
+[2025-09-17 13:35:46] [SYSTEM] App is alive
+[2025-09-17 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-17 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-17 14:00:00] [SHIFT] Boundary passed – local: 2025-09-17T14:00:00.041229123+02:00, UTC: 2025-09-17T12:00:00.041229123Z
+[2025-09-17 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-17T12:00:00Z, end=2025-09-17T20:00:00Z
+[2025-09-17 14:05:46] [SYSTEM] App is alive
+[2025-09-17 14:35:46] [SYSTEM] App is alive
+[2025-09-17 15:05:46] [SYSTEM] App is alive
+[2025-09-17 15:35:46] [SYSTEM] App is alive
+[2025-09-17 16:05:46] [SYSTEM] App is alive
+[2025-09-17 16:35:46] [SYSTEM] App is alive
+[2025-09-17 17:05:46] [SYSTEM] App is alive
+[2025-09-17 17:35:46] [SYSTEM] App is alive
+[2025-09-17 18:05:46] [SYSTEM] App is alive
+[2025-09-17 18:35:46] [SYSTEM] App is alive
+[2025-09-17 19:05:46] [SYSTEM] App is alive
+[2025-09-17 19:35:46] [SYSTEM] App is alive
+[2025-09-17 20:05:46] [SYSTEM] App is alive
+[2025-09-17 20:35:46] [SYSTEM] App is alive
+[2025-09-17 21:05:46] [SYSTEM] App is alive
+[2025-09-17 21:35:46] [SYSTEM] App is alive
+[2025-09-17 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-17 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-17 22:00:00] [SHIFT] Boundary passed – local: 2025-09-17T22:00:00.055854624+02:00, UTC: 2025-09-17T20:00:00.055854624Z
+[2025-09-17 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-17T20:00:00Z, end=2025-09-18T04:00:00Z
+[2025-09-17 22:05:46] [SYSTEM] App is alive
+[2025-09-17 22:35:46] [SYSTEM] App is alive
+[2025-09-17 23:05:46] [SYSTEM] App is alive
+[2025-09-17 23:35:46] [SYSTEM] App is alive
+[2025-09-18 00:05:46] [SYSTEM] App is alive
+[2025-09-18 00:35:46] [SYSTEM] App is alive
+[2025-09-18 01:05:46] [SYSTEM] App is alive
+[2025-09-18 01:35:46] [SYSTEM] App is alive
+[2025-09-18 02:05:46] [SYSTEM] App is alive
+[2025-09-18 02:35:46] [SYSTEM] App is alive
+[2025-09-18 03:05:46] [SYSTEM] App is alive
+[2025-09-18 03:35:46] [SYSTEM] App is alive
+[2025-09-18 04:05:46] [SYSTEM] App is alive
+[2025-09-18 04:35:46] [SYSTEM] App is alive
+[2025-09-18 05:05:46] [SYSTEM] App is alive
+[2025-09-18 05:35:46] [SYSTEM] App is alive
+[2025-09-18 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-18 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-18 06:00:00] [SHIFT] Boundary passed – local: 2025-09-18T06:00:00.079458133+02:00, UTC: 2025-09-18T04:00:00.079458133Z
+[2025-09-18 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-18T04:00:00Z, end=2025-09-18T12:00:00Z
+[2025-09-18 06:05:46] [SYSTEM] App is alive
+[2025-09-18 06:35:46] [SYSTEM] App is alive
+[2025-09-18 07:05:46] [SYSTEM] App is alive
+[2025-09-18 07:35:46] [SYSTEM] App is alive
+[2025-09-18 08:05:46] [SYSTEM] App is alive
+[2025-09-18 08:35:46] [SYSTEM] App is alive
+[2025-09-18 09:05:46] [SYSTEM] App is alive
+[2025-09-18 09:35:46] [SYSTEM] App is alive
+[2025-09-18 10:05:46] [SYSTEM] App is alive
+[2025-09-18 10:35:46] [SYSTEM] App is alive
+[2025-09-18 11:05:46] [SYSTEM] App is alive
+[2025-09-18 11:35:46] [SYSTEM] App is alive
+[2025-09-18 12:05:46] [SYSTEM] App is alive
+[2025-09-18 12:35:46] [SYSTEM] App is alive
+[2025-09-18 13:05:46] [SYSTEM] App is alive
+[2025-09-18 13:35:46] [SYSTEM] App is alive
+[2025-09-18 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-18 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-18 14:00:00] [SHIFT] Boundary passed – local: 2025-09-18T14:00:00.058559461+02:00, UTC: 2025-09-18T12:00:00.058559461Z
+[2025-09-18 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-18T12:00:00Z, end=2025-09-18T20:00:00Z
+[2025-09-18 14:05:46] [SYSTEM] App is alive
+[2025-09-18 14:35:46] [SYSTEM] App is alive
+[2025-09-18 15:05:46] [SYSTEM] App is alive
+[2025-09-18 15:35:46] [SYSTEM] App is alive
+[2025-09-18 16:05:46] [SYSTEM] App is alive
+[2025-09-18 16:35:46] [SYSTEM] App is alive
+[2025-09-18 17:05:46] [SYSTEM] App is alive
+[2025-09-18 17:35:46] [SYSTEM] App is alive
+[2025-09-18 18:05:46] [SYSTEM] App is alive
+[2025-09-18 18:35:46] [SYSTEM] App is alive
+[2025-09-18 19:05:46] [SYSTEM] App is alive
+[2025-09-18 19:35:46] [SYSTEM] App is alive
+[2025-09-18 20:05:46] [SYSTEM] App is alive
+[2025-09-18 20:35:46] [SYSTEM] App is alive
+[2025-09-18 21:05:46] [SYSTEM] App is alive
+[2025-09-18 21:35:46] [SYSTEM] App is alive
+[2025-09-18 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-18 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-18 22:00:00] [SHIFT] Boundary passed – local: 2025-09-18T22:00:00.067140022+02:00, UTC: 2025-09-18T20:00:00.067140022Z
+[2025-09-18 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-18T20:00:00Z, end=2025-09-19T04:00:00Z
+[2025-09-18 22:05:46] [SYSTEM] App is alive
+[2025-09-18 22:35:46] [SYSTEM] App is alive
+[2025-09-18 23:05:46] [SYSTEM] App is alive
+[2025-09-18 23:35:46] [SYSTEM] App is alive
+[2025-09-19 00:05:46] [SYSTEM] App is alive
+[2025-09-19 00:35:46] [SYSTEM] App is alive
+[2025-09-19 01:05:46] [SYSTEM] App is alive
+[2025-09-19 01:35:46] [SYSTEM] App is alive
+[2025-09-19 02:05:46] [SYSTEM] App is alive
+[2025-09-19 02:35:46] [SYSTEM] App is alive
+[2025-09-19 03:05:46] [SYSTEM] App is alive
+[2025-09-19 03:35:46] [SYSTEM] App is alive
+[2025-09-19 04:05:46] [SYSTEM] App is alive
+[2025-09-19 04:35:46] [SYSTEM] App is alive
+[2025-09-19 05:05:46] [SYSTEM] App is alive
+[2025-09-19 05:35:46] [SYSTEM] App is alive
+[2025-09-19 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-19 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-19 06:00:00] [SHIFT] Boundary passed – local: 2025-09-19T06:00:00.063172611+02:00, UTC: 2025-09-19T04:00:00.063172611Z
+[2025-09-19 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-19T04:00:00Z, end=2025-09-19T12:00:00Z
+[2025-09-19 06:05:46] [SYSTEM] App is alive
+[2025-09-19 06:35:46] [SYSTEM] App is alive
+[2025-09-19 07:05:46] [SYSTEM] App is alive
+[2025-09-19 07:35:46] [SYSTEM] App is alive
+[2025-09-19 08:05:46] [SYSTEM] App is alive
+[2025-09-19 08:35:46] [SYSTEM] App is alive
+[2025-09-19 09:05:46] [SYSTEM] App is alive
+[2025-09-19 09:35:46] [SYSTEM] App is alive
+[2025-09-19 10:05:46] [SYSTEM] App is alive
+[2025-09-19 10:35:46] [SYSTEM] App is alive
+[2025-09-19 11:05:46] [SYSTEM] App is alive
+[2025-09-19 11:35:46] [SYSTEM] App is alive
+[2025-09-19 12:05:46] [SYSTEM] App is alive
+[2025-09-19 12:35:46] [SYSTEM] App is alive
+[2025-09-19 13:05:46] [SYSTEM] App is alive
+[2025-09-19 13:35:46] [SYSTEM] App is alive
+[2025-09-19 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-19 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-19 14:00:00] [SHIFT] Boundary passed – local: 2025-09-19T14:00:00.052084656+02:00, UTC: 2025-09-19T12:00:00.052084656Z
+[2025-09-19 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-19T12:00:00Z, end=2025-09-19T20:00:00Z
+[2025-09-19 14:05:46] [SYSTEM] App is alive
+[2025-09-19 14:35:46] [SYSTEM] App is alive
+[2025-09-19 15:05:46] [SYSTEM] App is alive
+[2025-09-19 15:35:46] [SYSTEM] App is alive
+[2025-09-19 16:05:46] [SYSTEM] App is alive
+[2025-09-19 16:35:46] [SYSTEM] App is alive
+[2025-09-19 17:05:46] [SYSTEM] App is alive
+[2025-09-19 17:35:46] [SYSTEM] App is alive
+[2025-09-19 18:05:46] [SYSTEM] App is alive
+[2025-09-19 18:35:46] [SYSTEM] App is alive
+[2025-09-19 19:05:46] [SYSTEM] App is alive
+[2025-09-19 19:35:46] [SYSTEM] App is alive
+[2025-09-19 20:05:46] [SYSTEM] App is alive
+[2025-09-19 20:35:46] [SYSTEM] App is alive
+[2025-09-19 20:41:45] [METERS device_3] went OFFLINE
+[2025-09-19 20:41:45] [REST device_3] went OFFLINE
+[2025-09-19 20:42:05] [METERS device_3] is ONLINE again
+[2025-09-19 20:42:05] [REST device_3] is ONLINE again
+[2025-09-19 20:55:47] [METERS device_1] went OFFLINE
+[2025-09-19 20:55:47] [REST device_1] went OFFLINE
+[2025-09-19 20:55:48] [REST device_3] went OFFLINE
+[2025-09-19 20:55:48] [METERS device_3] went OFFLINE
+[2025-09-19 20:55:48] [REST device_2] went OFFLINE
+[2025-09-19 20:55:48] [METERS device_2] went OFFLINE
+[2025-09-19 20:56:25] [METERS device_3] is ONLINE again
+[2025-09-19 20:56:25] [REST device_3] is ONLINE again
+[2025-09-19 20:56:25] [REST device_2] is ONLINE again
+[2025-09-19 20:56:25] [METERS device_2] is ONLINE again
+[2025-09-19 20:56:30] [METERS device_1] is ONLINE again
+[2025-09-19 20:56:30] [REST device_1] is ONLINE again
+[2025-09-19 20:56:31] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-19 20:56:52] [MQTT] Client running, waiting for messages
+[2025-09-19 20:56:52] [MQTT] Connected to broker
+[2025-09-19 20:56:52] [MQTT] is ONLINE again
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-19 20:56:52] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-19 21:05:46] [SYSTEM] App is alive
+[2025-09-19 21:34:48] [METERS device_1] went OFFLINE
+[2025-09-19 21:34:48] [METERS device_3] went OFFLINE
+[2025-09-19 21:34:48] [REST device_3] went OFFLINE
+[2025-09-19 21:34:48] [REST device_1] went OFFLINE
+[2025-09-19 21:34:48] [METERS device_2] went OFFLINE
+[2025-09-19 21:34:48] [REST device_2] went OFFLINE
+[2025-09-19 21:35:12] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-19 21:35:43] [METERS device_2] is ONLINE again
+[2025-09-19 21:35:43] [REST device_2] is ONLINE again
+[2025-09-19 21:35:43] [REST device_3] is ONLINE again
+[2025-09-19 21:35:43] [METERS device_3] is ONLINE again
+[2025-09-19 21:35:44] [METERS device_1] is ONLINE again
+[2025-09-19 21:35:44] [REST device_1] is ONLINE again
+[2025-09-19 21:35:46] [SYSTEM] App is alive
+[2025-09-19 21:36:10] [MQTT] Client running, waiting for messages
+[2025-09-19 21:36:10] [MQTT] Connected to broker
+[2025-09-19 21:36:10] [MQTT] is ONLINE again
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-19 21:36:10] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-19 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-19 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-19 22:00:00] [SHIFT] Boundary passed – local: 2025-09-19T22:00:00.066023901+02:00, UTC: 2025-09-19T20:00:00.066023901Z
+[2025-09-19 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-19T20:00:00Z, end=2025-09-20T04:00:00Z
+[2025-09-19 22:05:46] [SYSTEM] App is alive
+[2025-09-19 22:35:46] [SYSTEM] App is alive
+[2025-09-19 23:05:46] [SYSTEM] App is alive
+[2025-09-19 23:35:46] [SYSTEM] App is alive
+[2025-09-20 00:05:46] [SYSTEM] App is alive
+[2025-09-20 00:35:46] [SYSTEM] App is alive
+[2025-09-20 01:05:46] [SYSTEM] App is alive
+[2025-09-20 01:35:46] [SYSTEM] App is alive
+[2025-09-20 02:05:46] [SYSTEM] App is alive
+[2025-09-20 02:35:46] [SYSTEM] App is alive
+[2025-09-20 03:05:46] [SYSTEM] App is alive
+[2025-09-20 03:35:46] [SYSTEM] App is alive
+[2025-09-20 04:05:46] [SYSTEM] App is alive
+[2025-09-20 04:35:46] [SYSTEM] App is alive
+[2025-09-20 05:05:46] [SYSTEM] App is alive
+[2025-09-20 05:35:46] [SYSTEM] App is alive
+[2025-09-20 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-20 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-20 06:00:00] [SHIFT] Boundary passed – local: 2025-09-20T06:00:00.0527375+02:00, UTC: 2025-09-20T04:00:00.0527375Z
+[2025-09-20 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-20T04:00:00Z, end=2025-09-20T12:00:00Z
+[2025-09-20 06:05:46] [SYSTEM] App is alive
+[2025-09-20 06:35:46] [SYSTEM] App is alive
+[2025-09-20 07:05:46] [SYSTEM] App is alive
+[2025-09-20 07:19:03] [REST device_2] went OFFLINE
+[2025-09-20 07:19:03] [METERS device_2] went OFFLINE
+[2025-09-20 07:26:18] [METERS device_2] is ONLINE again
+[2025-09-20 07:26:18] [REST device_2] is ONLINE again
+[2025-09-20 07:35:46] [SYSTEM] App is alive
+[2025-09-20 07:37:51] [REST device_2] went OFFLINE
+[2025-09-20 07:37:51] [METERS device_2] went OFFLINE
+[2025-09-20 07:41:53] [METERS device_2] is ONLINE again
+[2025-09-20 07:41:53] [REST device_2] is ONLINE again
+[2025-09-20 07:50:07] [METERS device_2] went OFFLINE
+[2025-09-20 07:50:07] [REST device_2] went OFFLINE
+[2025-09-20 07:58:47] [METERS device_2] is ONLINE again
+[2025-09-20 07:58:47] [REST device_2] is ONLINE again
+[2025-09-20 08:05:46] [SYSTEM] App is alive
+[2025-09-20 08:35:46] [SYSTEM] App is alive
+[2025-09-20 09:05:46] [SYSTEM] App is alive
+[2025-09-20 09:35:46] [SYSTEM] App is alive
+[2025-09-20 10:05:46] [SYSTEM] App is alive
+[2025-09-20 10:35:46] [SYSTEM] App is alive
+[2025-09-20 11:05:46] [SYSTEM] App is alive
+[2025-09-20 11:35:46] [SYSTEM] App is alive
+[2025-09-20 12:05:46] [SYSTEM] App is alive
+[2025-09-20 12:35:46] [SYSTEM] App is alive
+[2025-09-20 13:05:46] [SYSTEM] App is alive
+[2025-09-20 13:35:46] [SYSTEM] App is alive
+[2025-09-20 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-20 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-20 14:00:00] [SHIFT] Boundary passed – local: 2025-09-20T14:00:00.066829151+02:00, UTC: 2025-09-20T12:00:00.066829151Z
+[2025-09-20 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-20T12:00:00Z, end=2025-09-20T20:00:00Z
+[2025-09-20 14:05:46] [SYSTEM] App is alive
+[2025-09-20 14:35:46] [SYSTEM] App is alive
+[2025-09-20 15:05:46] [SYSTEM] App is alive
+[2025-09-20 15:35:46] [SYSTEM] App is alive
+[2025-09-20 16:05:46] [SYSTEM] App is alive
+[2025-09-20 16:35:46] [SYSTEM] App is alive
+[2025-09-20 17:05:46] [SYSTEM] App is alive
+[2025-09-20 17:35:46] [SYSTEM] App is alive
+[2025-09-20 18:05:46] [SYSTEM] App is alive
+[2025-09-20 18:35:46] [SYSTEM] App is alive
+[2025-09-20 19:05:46] [SYSTEM] App is alive
+[2025-09-20 19:35:46] [SYSTEM] App is alive
+[2025-09-20 20:05:46] [SYSTEM] App is alive
+[2025-09-20 20:35:46] [SYSTEM] App is alive
+[2025-09-20 21:05:46] [SYSTEM] App is alive
+[2025-09-20 21:35:46] [SYSTEM] App is alive
+[2025-09-20 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-20 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-20 22:00:00] [SHIFT] Boundary passed – local: 2025-09-20T22:00:00.046322528+02:00, UTC: 2025-09-20T20:00:00.046322528Z
+[2025-09-20 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-20T20:00:00Z, end=2025-09-21T04:00:00Z
+[2025-09-20 22:05:46] [SYSTEM] App is alive
+[2025-09-20 22:35:46] [SYSTEM] App is alive
+[2025-09-20 23:05:46] [SYSTEM] App is alive
+[2025-09-20 23:35:46] [SYSTEM] App is alive
+[2025-09-21 00:05:46] [SYSTEM] App is alive
+[2025-09-21 00:35:46] [SYSTEM] App is alive
+[2025-09-21 01:05:46] [SYSTEM] App is alive
+[2025-09-21 01:35:46] [SYSTEM] App is alive
+[2025-09-21 02:05:46] [SYSTEM] App is alive
+[2025-09-21 02:35:46] [SYSTEM] App is alive
+[2025-09-21 03:05:46] [SYSTEM] App is alive
+[2025-09-21 03:35:46] [SYSTEM] App is alive
+[2025-09-21 04:05:46] [SYSTEM] App is alive
+[2025-09-21 04:35:46] [SYSTEM] App is alive
+[2025-09-21 05:05:46] [SYSTEM] App is alive
+[2025-09-21 05:35:46] [SYSTEM] App is alive
+[2025-09-21 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-21 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-21 06:00:00] [SHIFT] Boundary passed – local: 2025-09-21T06:00:00.068687034+02:00, UTC: 2025-09-21T04:00:00.068687034Z
+[2025-09-21 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-21T04:00:00Z, end=2025-09-21T12:00:00Z
+[2025-09-21 06:05:46] [SYSTEM] App is alive
+[2025-09-21 06:35:46] [SYSTEM] App is alive
+[2025-09-21 07:05:46] [SYSTEM] App is alive
+[2025-09-21 07:35:46] [SYSTEM] App is alive
+[2025-09-21 08:05:46] [SYSTEM] App is alive
+[2025-09-21 08:35:46] [SYSTEM] App is alive
+[2025-09-21 09:05:46] [SYSTEM] App is alive
+[2025-09-21 09:35:46] [SYSTEM] App is alive
+[2025-09-21 10:05:46] [SYSTEM] App is alive
+[2025-09-21 10:35:46] [SYSTEM] App is alive
+[2025-09-21 11:05:46] [SYSTEM] App is alive
+[2025-09-21 11:35:46] [SYSTEM] App is alive
+[2025-09-21 12:05:46] [SYSTEM] App is alive
+[2025-09-21 12:35:46] [SYSTEM] App is alive
+[2025-09-21 13:05:46] [SYSTEM] App is alive
+[2025-09-21 13:35:46] [SYSTEM] App is alive
+[2025-09-21 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-21 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-21 14:00:00] [SHIFT] Boundary passed – local: 2025-09-21T14:00:00.060170199+02:00, UTC: 2025-09-21T12:00:00.060170199Z
+[2025-09-21 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-21T12:00:00Z, end=2025-09-21T20:00:00Z
+[2025-09-21 14:05:46] [SYSTEM] App is alive
+[2025-09-21 14:35:46] [SYSTEM] App is alive
+[2025-09-21 15:05:46] [SYSTEM] App is alive
+[2025-09-21 15:35:46] [SYSTEM] App is alive
+[2025-09-21 16:05:46] [SYSTEM] App is alive
+[2025-09-21 16:35:46] [SYSTEM] App is alive
+[2025-09-21 17:05:46] [SYSTEM] App is alive
+[2025-09-21 17:35:46] [SYSTEM] App is alive
+[2025-09-21 18:05:46] [SYSTEM] App is alive
+[2025-09-21 18:35:46] [SYSTEM] App is alive
+[2025-09-21 19:05:46] [SYSTEM] App is alive
+[2025-09-21 19:35:46] [SYSTEM] App is alive
+[2025-09-21 20:05:46] [SYSTEM] App is alive
+[2025-09-21 20:35:46] [SYSTEM] App is alive
+[2025-09-21 21:05:46] [SYSTEM] App is alive
+[2025-09-21 21:35:46] [SYSTEM] App is alive
+[2025-09-21 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-21 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-21 22:00:00] [SHIFT] Boundary passed – local: 2025-09-21T22:00:00.072157831+02:00, UTC: 2025-09-21T20:00:00.072157831Z
+[2025-09-21 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-21T20:00:00Z, end=2025-09-22T04:00:00Z
+[2025-09-21 22:05:46] [SYSTEM] App is alive
+[2025-09-21 22:35:46] [SYSTEM] App is alive
+[2025-09-21 23:05:46] [SYSTEM] App is alive
+[2025-09-21 23:35:46] [SYSTEM] App is alive
+[2025-09-22 00:05:46] [SYSTEM] App is alive
+[2025-09-22 00:35:46] [SYSTEM] App is alive
+[2025-09-22 01:05:46] [SYSTEM] App is alive
+[2025-09-22 01:35:46] [SYSTEM] App is alive
+[2025-09-22 02:05:46] [SYSTEM] App is alive
+[2025-09-22 02:35:46] [SYSTEM] App is alive
+[2025-09-22 03:05:46] [SYSTEM] App is alive
+[2025-09-22 03:35:46] [SYSTEM] App is alive
+[2025-09-22 04:05:46] [SYSTEM] App is alive
+[2025-09-22 04:35:46] [SYSTEM] App is alive
+[2025-09-22 05:05:46] [SYSTEM] App is alive
+[2025-09-22 05:35:46] [SYSTEM] App is alive
+[2025-09-22 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-22 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-22 06:00:00] [SHIFT] Boundary passed – local: 2025-09-22T06:00:00.06903105+02:00, UTC: 2025-09-22T04:00:00.06903105Z
+[2025-09-22 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-22T04:00:00Z, end=2025-09-22T12:00:00Z
+[2025-09-22 06:05:46] [SYSTEM] App is alive
+[2025-09-22 06:35:46] [SYSTEM] App is alive
+[2025-09-22 07:05:46] [SYSTEM] App is alive
+[2025-09-22 07:35:46] [SYSTEM] App is alive
+[2025-09-22 08:05:46] [SYSTEM] App is alive
+[2025-09-22 08:35:46] [SYSTEM] App is alive
+[2025-09-22 09:05:46] [SYSTEM] App is alive
+[2025-09-22 09:35:46] [SYSTEM] App is alive
+[2025-09-22 10:05:46] [SYSTEM] App is alive
+[2025-09-22 10:35:46] [SYSTEM] App is alive
+[2025-09-22 11:05:46] [SYSTEM] App is alive
+[2025-09-22 11:35:46] [SYSTEM] App is alive
+[2025-09-22 12:05:46] [SYSTEM] App is alive
+[2025-09-22 12:35:46] [SYSTEM] App is alive
+[2025-09-22 13:05:46] [SYSTEM] App is alive
+[2025-09-22 13:35:46] [SYSTEM] App is alive
+[2025-09-22 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-22 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-22 14:00:00] [SHIFT] Boundary passed – local: 2025-09-22T14:00:00.052319067+02:00, UTC: 2025-09-22T12:00:00.052319067Z
+[2025-09-22 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-22T12:00:00Z, end=2025-09-22T20:00:00Z
+[2025-09-22 14:05:46] [SYSTEM] App is alive
+[2025-09-22 14:35:46] [SYSTEM] App is alive
+[2025-09-22 15:05:46] [SYSTEM] App is alive
+[2025-09-22 15:35:46] [SYSTEM] App is alive
+[2025-09-22 16:05:46] [SYSTEM] App is alive
+[2025-09-22 16:35:46] [SYSTEM] App is alive
+[2025-09-22 17:05:46] [SYSTEM] App is alive
+[2025-09-22 17:35:46] [SYSTEM] App is alive
+[2025-09-22 18:05:46] [SYSTEM] App is alive
+[2025-09-22 18:35:46] [SYSTEM] App is alive
+[2025-09-22 19:05:46] [SYSTEM] App is alive
+[2025-09-22 19:35:46] [SYSTEM] App is alive
+[2025-09-22 20:05:46] [SYSTEM] App is alive
+[2025-09-22 20:35:46] [SYSTEM] App is alive
+[2025-09-22 21:05:46] [SYSTEM] App is alive
+[2025-09-22 21:35:46] [SYSTEM] App is alive
+[2025-09-22 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-22 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-22 22:00:00] [SHIFT] Boundary passed – local: 2025-09-22T22:00:00.065802321+02:00, UTC: 2025-09-22T20:00:00.065802321Z
+[2025-09-22 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-22T20:00:00Z, end=2025-09-23T04:00:00Z
+[2025-09-22 22:05:46] [SYSTEM] App is alive
+[2025-09-22 22:35:46] [SYSTEM] App is alive
+[2025-09-22 23:05:46] [SYSTEM] App is alive
+[2025-09-22 23:35:46] [SYSTEM] App is alive
+[2025-09-23 00:05:46] [SYSTEM] App is alive
+[2025-09-23 00:35:46] [SYSTEM] App is alive
+[2025-09-23 01:05:46] [SYSTEM] App is alive
+[2025-09-23 01:35:46] [SYSTEM] App is alive
+[2025-09-23 02:05:46] [SYSTEM] App is alive
+[2025-09-23 02:35:46] [SYSTEM] App is alive
+[2025-09-23 03:05:46] [SYSTEM] App is alive
+[2025-09-23 03:35:46] [SYSTEM] App is alive
+[2025-09-23 04:05:46] [SYSTEM] App is alive
+[2025-09-23 04:35:46] [SYSTEM] App is alive
+[2025-09-23 05:05:46] [SYSTEM] App is alive
+[2025-09-23 05:35:46] [SYSTEM] App is alive
+[2025-09-23 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-23 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-23 06:00:00] [SHIFT] Boundary passed – local: 2025-09-23T06:00:00.054591881+02:00, UTC: 2025-09-23T04:00:00.054591881Z
+[2025-09-23 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-23T04:00:00Z, end=2025-09-23T12:00:00Z
+[2025-09-23 06:05:46] [SYSTEM] App is alive
+[2025-09-23 06:35:46] [SYSTEM] App is alive
+[2025-09-23 07:05:46] [SYSTEM] App is alive
+[2025-09-23 07:35:46] [SYSTEM] App is alive
+[2025-09-23 08:05:46] [SYSTEM] App is alive
+[2025-09-23 08:35:46] [SYSTEM] App is alive
+[2025-09-23 09:05:46] [SYSTEM] App is alive
+[2025-09-23 09:35:46] [SYSTEM] App is alive
+[2025-09-23 10:05:46] [SYSTEM] App is alive
+[2025-09-23 10:35:46] [SYSTEM] App is alive
+[2025-09-23 11:05:46] [SYSTEM] App is alive
+[2025-09-23 11:35:46] [SYSTEM] App is alive
+[2025-09-23 12:05:46] [SYSTEM] App is alive
+[2025-09-23 12:35:46] [SYSTEM] App is alive
+[2025-09-23 13:05:46] [SYSTEM] App is alive
+[2025-09-23 13:35:46] [SYSTEM] App is alive
+[2025-09-23 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-23 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-23 14:00:00] [SHIFT] Boundary passed – local: 2025-09-23T14:00:00.053774572+02:00, UTC: 2025-09-23T12:00:00.053774572Z
+[2025-09-23 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-23T12:00:00Z, end=2025-09-23T20:00:00Z
+[2025-09-23 14:05:46] [SYSTEM] App is alive
+[2025-09-23 14:35:46] [SYSTEM] App is alive
+[2025-09-23 15:05:46] [SYSTEM] App is alive
+[2025-09-23 15:35:46] [SYSTEM] App is alive
+[2025-09-23 16:05:46] [SYSTEM] App is alive
+[2025-09-23 16:35:46] [SYSTEM] App is alive
+[2025-09-23 17:05:46] [SYSTEM] App is alive
+[2025-09-23 17:35:46] [SYSTEM] App is alive
+[2025-09-23 18:05:46] [SYSTEM] App is alive
+[2025-09-23 18:35:46] [SYSTEM] App is alive
+[2025-09-23 19:05:46] [SYSTEM] App is alive
+[2025-09-23 19:35:46] [SYSTEM] App is alive
+[2025-09-23 20:05:46] [SYSTEM] App is alive
+[2025-09-23 20:35:46] [SYSTEM] App is alive
+[2025-09-23 21:05:46] [SYSTEM] App is alive
+[2025-09-23 21:35:46] [SYSTEM] App is alive
+[2025-09-23 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-23 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-23 22:00:00] [SHIFT] Boundary passed – local: 2025-09-23T22:00:00.060604527+02:00, UTC: 2025-09-23T20:00:00.060604527Z
+[2025-09-23 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-23T20:00:00Z, end=2025-09-24T04:00:00Z
+[2025-09-23 22:05:46] [SYSTEM] App is alive
+[2025-09-23 22:35:46] [SYSTEM] App is alive
+[2025-09-23 23:05:46] [SYSTEM] App is alive
+[2025-09-23 23:35:46] [SYSTEM] App is alive
+[2025-09-24 00:05:46] [SYSTEM] App is alive
+[2025-09-24 00:35:46] [SYSTEM] App is alive
+[2025-09-24 01:05:46] [SYSTEM] App is alive
+[2025-09-24 01:35:46] [SYSTEM] App is alive
+[2025-09-24 02:05:46] [SYSTEM] App is alive
+[2025-09-24 02:35:46] [SYSTEM] App is alive
+[2025-09-24 03:05:46] [SYSTEM] App is alive
+[2025-09-24 03:35:46] [SYSTEM] App is alive
+[2025-09-24 04:05:46] [SYSTEM] App is alive
+[2025-09-24 04:35:46] [SYSTEM] App is alive
+[2025-09-24 05:05:46] [SYSTEM] App is alive
+[2025-09-24 05:35:46] [SYSTEM] App is alive
+[2025-09-24 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-24 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-24 06:00:00] [SHIFT] Boundary passed – local: 2025-09-24T06:00:00.059416346+02:00, UTC: 2025-09-24T04:00:00.059416346Z
+[2025-09-24 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-24T04:00:00Z, end=2025-09-24T12:00:00Z
+[2025-09-24 06:05:46] [SYSTEM] App is alive
+[2025-09-24 06:35:46] [SYSTEM] App is alive
+[2025-09-24 07:05:46] [SYSTEM] App is alive
+[2025-09-24 07:35:46] [SYSTEM] App is alive
+[2025-09-24 08:05:46] [SYSTEM] App is alive
+[2025-09-24 08:35:46] [SYSTEM] App is alive
+[2025-09-24 09:05:46] [SYSTEM] App is alive
+[2025-09-24 09:35:46] [SYSTEM] App is alive
+[2025-09-24 10:05:46] [SYSTEM] App is alive
+[2025-09-24 10:35:46] [SYSTEM] App is alive
+[2025-09-24 11:05:46] [SYSTEM] App is alive
+[2025-09-24 11:35:46] [SYSTEM] App is alive
+[2025-09-24 12:05:46] [SYSTEM] App is alive
+[2025-09-24 12:35:46] [SYSTEM] App is alive
+[2025-09-24 13:05:46] [SYSTEM] App is alive
+[2025-09-24 13:35:46] [SYSTEM] App is alive
+[2025-09-24 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-24 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-24 14:00:00] [SHIFT] Boundary passed – local: 2025-09-24T14:00:00.068710785+02:00, UTC: 2025-09-24T12:00:00.068710785Z
+[2025-09-24 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-24T12:00:00Z, end=2025-09-24T20:00:00Z
+[2025-09-24 14:05:46] [SYSTEM] App is alive
+[2025-09-24 14:35:46] [SYSTEM] App is alive
+[2025-09-24 15:05:46] [SYSTEM] App is alive
+[2025-09-24 15:35:46] [SYSTEM] App is alive
+[2025-09-24 16:05:46] [SYSTEM] App is alive
+[2025-09-24 16:35:46] [SYSTEM] App is alive
+[2025-09-24 17:05:46] [SYSTEM] App is alive
+[2025-09-24 17:35:46] [SYSTEM] App is alive
+[2025-09-24 18:05:46] [SYSTEM] App is alive
+[2025-09-24 18:35:46] [SYSTEM] App is alive
+[2025-09-24 19:05:46] [SYSTEM] App is alive
+[2025-09-24 19:35:46] [SYSTEM] App is alive
+[2025-09-24 20:05:46] [SYSTEM] App is alive
+[2025-09-24 20:35:46] [SYSTEM] App is alive
+[2025-09-24 21:05:46] [SYSTEM] App is alive
+[2025-09-24 21:35:46] [SYSTEM] App is alive
+[2025-09-24 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-24 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-24 22:00:00] [SHIFT] Boundary passed – local: 2025-09-24T22:00:00.04892076+02:00, UTC: 2025-09-24T20:00:00.04892076Z
+[2025-09-24 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-24T20:00:00Z, end=2025-09-25T04:00:00Z
+[2025-09-24 22:05:46] [SYSTEM] App is alive
+[2025-09-24 22:35:46] [SYSTEM] App is alive
+[2025-09-24 23:05:46] [SYSTEM] App is alive
+[2025-09-24 23:35:46] [SYSTEM] App is alive
+[2025-09-25 00:05:46] [SYSTEM] App is alive
+[2025-09-25 00:35:46] [SYSTEM] App is alive
+[2025-09-25 01:05:46] [SYSTEM] App is alive
+[2025-09-25 01:35:46] [SYSTEM] App is alive
+[2025-09-25 02:05:46] [SYSTEM] App is alive
+[2025-09-25 02:35:46] [SYSTEM] App is alive
+[2025-09-25 03:05:46] [SYSTEM] App is alive
+[2025-09-25 03:35:46] [SYSTEM] App is alive
+[2025-09-25 04:05:46] [SYSTEM] App is alive
+[2025-09-25 04:35:46] [SYSTEM] App is alive
+[2025-09-25 05:05:46] [SYSTEM] App is alive
+[2025-09-25 05:35:46] [SYSTEM] App is alive
+[2025-09-25 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-25 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-25 06:00:00] [SHIFT] Boundary passed – local: 2025-09-25T06:00:00.091090278+02:00, UTC: 2025-09-25T04:00:00.091090278Z
+[2025-09-25 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-25T04:00:00Z, end=2025-09-25T12:00:00Z
+[2025-09-25 06:05:46] [SYSTEM] App is alive
+[2025-09-25 06:35:46] [SYSTEM] App is alive
+[2025-09-25 07:05:46] [SYSTEM] App is alive
+[2025-09-25 07:35:46] [SYSTEM] App is alive
+[2025-09-25 08:05:46] [SYSTEM] App is alive
+[2025-09-25 08:35:46] [SYSTEM] App is alive
+[2025-09-25 09:05:46] [SYSTEM] App is alive
+[2025-09-25 09:35:46] [SYSTEM] App is alive
+[2025-09-25 10:05:46] [SYSTEM] App is alive
+[2025-09-25 10:35:46] [SYSTEM] App is alive
+[2025-09-25 11:05:46] [SYSTEM] App is alive
+[2025-09-25 11:35:46] [SYSTEM] App is alive
+[2025-09-25 12:05:46] [SYSTEM] App is alive
+[2025-09-25 12:35:46] [SYSTEM] App is alive
+[2025-09-25 13:05:46] [SYSTEM] App is alive
+[2025-09-25 13:35:46] [SYSTEM] App is alive
+[2025-09-25 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-25 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-25 14:00:00] [SHIFT] Boundary passed – local: 2025-09-25T14:00:00.061662854+02:00, UTC: 2025-09-25T12:00:00.061662854Z
+[2025-09-25 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-25T12:00:00Z, end=2025-09-25T20:00:00Z
+[2025-09-25 14:05:46] [SYSTEM] App is alive
+[2025-09-25 14:35:46] [SYSTEM] App is alive
+[2025-09-25 15:05:46] [SYSTEM] App is alive
+[2025-09-25 15:35:46] [SYSTEM] App is alive
+[2025-09-25 16:05:46] [SYSTEM] App is alive
+[2025-09-25 16:35:46] [SYSTEM] App is alive
+[2025-09-25 17:05:46] [SYSTEM] App is alive
+[2025-09-25 17:35:46] [SYSTEM] App is alive
+[2025-09-25 18:01:07] [METERS device_2] went OFFLINE
+[2025-09-25 18:01:07] [REST device_3] went OFFLINE
+[2025-09-25 18:01:07] [REST device_2] went OFFLINE
+[2025-09-25 18:01:07] [METERS device_3] went OFFLINE
+[2025-09-25 18:01:08] [METERS device_1] went OFFLINE
+[2025-09-25 18:01:08] [REST device_1] went OFFLINE
+[2025-09-25 18:01:40] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-25 18:05:46] [SYSTEM] App is alive
+[2025-09-25 18:33:14] [METERS device_1] is ONLINE again
+[2025-09-25 18:33:14] [REST device_1] is ONLINE again
+[2025-09-25 18:33:14] [METERS device_3] is ONLINE again
+[2025-09-25 18:33:14] [REST device_3] is ONLINE again
+[2025-09-25 18:33:16] [REST device_2] is ONLINE again
+[2025-09-25 18:33:16] [METERS device_2] is ONLINE again
+[2025-09-25 18:33:42] [MQTT] Client running, waiting for messages
+[2025-09-25 18:33:42] [MQTT] Connected to broker
+[2025-09-25 18:33:42] [MQTT] is ONLINE again
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-25 18:33:42] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-25 18:35:46] [SYSTEM] App is alive
+[2025-09-25 18:53:06] [REST device_1] went OFFLINE
+[2025-09-25 18:53:06] [METERS device_1] went OFFLINE
+[2025-09-25 18:53:06] [METERS device_3] went OFFLINE
+[2025-09-25 18:53:06] [REST device_3] went OFFLINE
+[2025-09-25 18:53:07] [REST device_2] went OFFLINE
+[2025-09-25 18:53:07] [METERS device_2] went OFFLINE
+[2025-09-25 18:53:27] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-25 18:54:22] [METERS device_2] is ONLINE again
+[2025-09-25 18:54:22] [REST device_2] is ONLINE again
+[2025-09-25 18:54:23] [METERS device_1] is ONLINE again
+[2025-09-25 18:54:23] [REST device_1] is ONLINE again
+[2025-09-25 18:54:23] [METERS device_3] is ONLINE again
+[2025-09-25 18:54:23] [REST device_3] is ONLINE again
+[2025-09-25 18:54:50] [MQTT] Client running, waiting for messages
+[2025-09-25 18:54:50] [MQTT] Connected to broker
+[2025-09-25 18:54:50] [MQTT] is ONLINE again
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-25 18:54:50] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-25 19:05:46] [SYSTEM] App is alive
+[2025-09-25 19:35:46] [SYSTEM] App is alive
+[2025-09-25 20:05:46] [SYSTEM] App is alive
+[2025-09-25 20:35:46] [SYSTEM] App is alive
+[2025-09-25 21:05:46] [SYSTEM] App is alive
+[2025-09-25 21:35:46] [SYSTEM] App is alive
+[2025-09-25 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-25 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-25 22:00:00] [SHIFT] Boundary passed – local: 2025-09-25T22:00:00.068252426+02:00, UTC: 2025-09-25T20:00:00.068252426Z
+[2025-09-25 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-25T20:00:00Z, end=2025-09-26T04:00:00Z
+[2025-09-25 22:05:46] [SYSTEM] App is alive
+[2025-09-25 22:35:46] [SYSTEM] App is alive
+[2025-09-25 23:05:46] [SYSTEM] App is alive
+[2025-09-25 23:35:46] [SYSTEM] App is alive
+[2025-09-26 00:05:46] [SYSTEM] App is alive
+[2025-09-26 00:35:46] [SYSTEM] App is alive
+[2025-09-26 01:05:46] [SYSTEM] App is alive
+[2025-09-26 01:35:46] [SYSTEM] App is alive
+[2025-09-26 02:05:46] [SYSTEM] App is alive
+[2025-09-26 02:35:46] [SYSTEM] App is alive
+[2025-09-26 03:05:46] [SYSTEM] App is alive
+[2025-09-26 03:35:46] [SYSTEM] App is alive
+[2025-09-26 04:05:46] [SYSTEM] App is alive
+[2025-09-26 04:35:46] [SYSTEM] App is alive
+[2025-09-26 05:05:46] [SYSTEM] App is alive
+[2025-09-26 05:35:46] [SYSTEM] App is alive
+[2025-09-26 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-26 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-26 06:00:00] [SHIFT] Boundary passed – local: 2025-09-26T06:00:00.040323603+02:00, UTC: 2025-09-26T04:00:00.040323603Z
+[2025-09-26 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-26T04:00:00Z, end=2025-09-26T12:00:00Z
+[2025-09-26 06:05:46] [SYSTEM] App is alive
+[2025-09-26 06:35:46] [SYSTEM] App is alive
+[2025-09-26 07:05:46] [SYSTEM] App is alive
+[2025-09-26 07:35:46] [SYSTEM] App is alive
+[2025-09-26 08:05:46] [SYSTEM] App is alive
+[2025-09-26 08:35:46] [SYSTEM] App is alive
+[2025-09-26 09:05:46] [SYSTEM] App is alive
+[2025-09-26 09:35:46] [SYSTEM] App is alive
+[2025-09-26 10:05:46] [SYSTEM] App is alive
+[2025-09-26 10:35:46] [SYSTEM] App is alive
+[2025-09-26 11:05:46] [SYSTEM] App is alive
+[2025-09-26 11:35:46] [SYSTEM] App is alive
+[2025-09-26 12:05:46] [SYSTEM] App is alive
+[2025-09-26 12:35:46] [SYSTEM] App is alive
+[2025-09-26 13:05:46] [SYSTEM] App is alive
+[2025-09-26 13:35:46] [SYSTEM] App is alive
+[2025-09-26 13:59:33] [METERS device_3] went OFFLINE
+[2025-09-26 13:59:33] [REST device_3] went OFFLINE
+[2025-09-26 13:59:34] [REST device_1] went OFFLINE
+[2025-09-26 13:59:34] [METERS device_1] went OFFLINE
+[2025-09-26 13:59:34] [REST device_2] went OFFLINE
+[2025-09-26 13:59:34] [METERS device_2] went OFFLINE
+[2025-09-26 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-26 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-26 14:00:00] [SHIFT] Boundary passed – local: 2025-09-26T14:00:00.070361213+02:00, UTC: 2025-09-26T12:00:00.070361213Z
+[2025-09-26 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-26T12:00:00Z, end=2025-09-26T20:00:00Z
+[2025-09-26 14:00:05] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-26 14:05:46] [SYSTEM] App is alive
+[2025-09-26 14:07:26] [METERS device_3] is ONLINE again
+[2025-09-26 14:07:26] [REST device_3] is ONLINE again
+[2025-09-26 14:07:26] [METERS device_1] is ONLINE again
+[2025-09-26 14:07:26] [REST device_1] is ONLINE again
+[2025-09-26 14:07:26] [METERS device_2] is ONLINE again
+[2025-09-26 14:07:26] [REST device_2] is ONLINE again
+[2025-09-26 14:07:56] [MQTT] Client running, waiting for messages
+[2025-09-26 14:07:56] [MQTT] Connected to broker
+[2025-09-26 14:07:56] [MQTT] is ONLINE again
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-26 14:07:56] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-26 14:35:46] [SYSTEM] App is alive
+[2025-09-26 14:40:56] [REST device_2] went OFFLINE
+[2025-09-26 14:40:56] [METERS device_2] went OFFLINE
+[2025-09-26 14:42:01] [METERS device_2] is ONLINE again
+[2025-09-26 14:42:01] [REST device_2] is ONLINE again
+[2025-09-26 15:05:46] [SYSTEM] App is alive
+[2025-09-26 15:17:06] [REST device_2] went OFFLINE
+[2025-09-26 15:17:06] [METERS device_2] went OFFLINE
+[2025-09-26 15:17:07] [REST device_1] went OFFLINE
+[2025-09-26 15:17:07] [METERS device_1] went OFFLINE
+[2025-09-26 15:17:07] [REST device_3] went OFFLINE
+[2025-09-26 15:17:07] [METERS device_3] went OFFLINE
+[2025-09-26 15:17:36] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-26 15:20:15] [METERS device_2] is ONLINE again
+[2025-09-26 15:20:15] [REST device_2] is ONLINE again
+[2025-09-26 15:20:16] [METERS device_3] is ONLINE again
+[2025-09-26 15:20:16] [REST device_3] is ONLINE again
+[2025-09-26 15:20:17] [METERS device_1] is ONLINE again
+[2025-09-26 15:20:17] [REST device_1] is ONLINE again
+[2025-09-26 15:20:43] [MQTT] Client running, waiting for messages
+[2025-09-26 15:20:43] [MQTT] Connected to broker
+[2025-09-26 15:20:43] [MQTT] is ONLINE again
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-26 15:20:43] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-26 15:35:46] [SYSTEM] App is alive
+[2025-09-26 16:05:46] [SYSTEM] App is alive
+[2025-09-26 16:35:46] [SYSTEM] App is alive
+[2025-09-26 17:05:46] [SYSTEM] App is alive
+[2025-09-26 17:35:46] [SYSTEM] App is alive
+[2025-09-26 18:05:46] [SYSTEM] App is alive
+[2025-09-26 18:35:46] [SYSTEM] App is alive
+[2025-09-26 19:05:46] [SYSTEM] App is alive
+[2025-09-26 19:35:46] [SYSTEM] App is alive
+[2025-09-26 20:05:46] [SYSTEM] App is alive
+[2025-09-26 20:35:46] [SYSTEM] App is alive
+[2025-09-26 21:05:46] [SYSTEM] App is alive
+[2025-09-26 21:32:53] [METERS device_2] went OFFLINE
+[2025-09-26 21:32:53] [REST device_2] went OFFLINE
+[2025-09-26 21:32:53] [REST device_3] went OFFLINE
+[2025-09-26 21:32:53] [METERS device_3] went OFFLINE
+[2025-09-26 21:32:53] [METERS device_1] went OFFLINE
+[2025-09-26 21:32:53] [REST device_1] went OFFLINE
+[2025-09-26 21:33:18] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-26 21:35:46] [SYSTEM] App is alive
+[2025-09-26 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-26 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-26 22:00:00] [SHIFT] Boundary passed – local: 2025-09-26T22:00:00.060953641+02:00, UTC: 2025-09-26T20:00:00.060953641Z
+[2025-09-26 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-26T20:00:00Z, end=2025-09-27T04:00:00Z
+[2025-09-26 22:05:46] [SYSTEM] App is alive
+[2025-09-26 22:35:46] [SYSTEM] App is alive
+[2025-09-26 23:05:46] [SYSTEM] App is alive
+[2025-09-26 23:35:46] [SYSTEM] App is alive
+[2025-09-27 00:05:46] [SYSTEM] App is alive
+[2025-09-27 00:35:46] [SYSTEM] App is alive
+[2025-09-27 01:05:46] [SYSTEM] App is alive
+[2025-09-27 01:35:46] [SYSTEM] App is alive
+[2025-09-27 02:05:46] [SYSTEM] App is alive
+[2025-09-27 02:35:46] [SYSTEM] App is alive
+[2025-09-27 03:05:46] [SYSTEM] App is alive
+[2025-09-27 03:35:46] [SYSTEM] App is alive
+[2025-09-27 04:05:46] [SYSTEM] App is alive
+[2025-09-27 04:35:46] [SYSTEM] App is alive
+[2025-09-27 05:05:46] [SYSTEM] App is alive
+[2025-09-27 05:35:46] [SYSTEM] App is alive
+[2025-09-27 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-27 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-27 06:00:00] [SHIFT] Boundary passed – local: 2025-09-27T06:00:00.050126645+02:00, UTC: 2025-09-27T04:00:00.050126645Z
+[2025-09-27 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-27T04:00:00Z, end=2025-09-27T12:00:00Z
+[2025-09-27 06:05:46] [SYSTEM] App is alive
+[2025-09-27 06:35:46] [SYSTEM] App is alive
+[2025-09-27 07:05:46] [SYSTEM] App is alive
+[2025-09-27 07:35:46] [SYSTEM] App is alive
+[2025-09-27 08:05:46] [SYSTEM] App is alive
+[2025-09-27 08:35:46] [SYSTEM] App is alive
+[2025-09-27 09:05:46] [SYSTEM] App is alive
+[2025-09-27 09:35:46] [SYSTEM] App is alive
+[2025-09-27 10:05:46] [SYSTEM] App is alive
+[2025-09-27 10:17:10] [REST device_1] is ONLINE again
+[2025-09-27 10:17:10] [METERS device_1] is ONLINE again
+[2025-09-27 10:17:30] [REST device_2] is ONLINE again
+[2025-09-27 10:17:30] [METERS device_2] is ONLINE again
+[2025-09-27 10:17:33] [MQTT] Client running, waiting for messages
+[2025-09-27 10:17:33] [MQTT] Connected to broker
+[2025-09-27 10:17:33] [MQTT] is ONLINE again
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-27 10:17:33] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-27 10:18:13] [METERS device_3] is ONLINE again
+[2025-09-27 10:18:13] [REST device_3] is ONLINE again
+[2025-09-27 10:35:46] [SYSTEM] App is alive
+[2025-09-27 11:05:46] [SYSTEM] App is alive
+[2025-09-27 11:35:46] [SYSTEM] App is alive
+[2025-09-27 12:05:46] [SYSTEM] App is alive
+[2025-09-27 12:30:31] [METERS device_3] went OFFLINE
+[2025-09-27 12:30:31] [REST device_3] went OFFLINE
+[2025-09-27 12:30:58] [REST device_2] went OFFLINE
+[2025-09-27 12:30:58] [METERS device_2] went OFFLINE
+[2025-09-27 12:31:29] [METERS device_1] went OFFLINE
+[2025-09-27 12:31:29] [REST device_1] went OFFLINE
+[2025-09-27 12:31:38] [MQTT] went OFFLINE (pingresp not received, disconnecting)
+[2025-09-27 12:35:46] [SYSTEM] App is alive
+[2025-09-27 13:05:46] [SYSTEM] App is alive
+[2025-09-27 13:35:46] [SYSTEM] App is alive
+[2025-09-27 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-27 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-27 14:00:00] [SHIFT] Boundary passed – local: 2025-09-27T14:00:00.056010084+02:00, UTC: 2025-09-27T12:00:00.056010084Z
+[2025-09-27 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-27T12:00:00Z, end=2025-09-27T20:00:00Z
+[2025-09-27 14:05:46] [SYSTEM] App is alive
+[2025-09-27 14:14:33] [SYSTEM] Program started
+[2025-09-27 14:14:33] [OEE] Loaded data
+[2025-09-27 14:14:33] [REST device_1] first conn attempt 1
+[2025-09-27 14:14:33] [MQTT] First connect attempt
+[2025-09-27 14:14:33] [METERS device_2] first conn attempt 1
+[2025-09-27 14:14:33] [SHIFT] Prev shift (UTC): start=2025-09-27T12:00:00Z, end=2025-09-27T20:00:00Z
+[2025-09-27 14:14:33] [FLOW] Data restored in mqttFlow.json
+[2025-09-27 14:14:33] [METERS device_3] first conn attempt 1
+[2025-09-27 14:14:33] [REST device_3] first conn attempt 1
+[2025-09-27 14:14:33] [OEE_TEMP] Data restored in oee.json
+[2025-09-27 14:14:33] [SYSTEM] App is alive
+[2025-09-27 14:14:33] [METERS device_1] first conn attempt 1
+[2025-09-27 14:14:33] [REST device_2] first conn attempt 1
+[2025-09-27 14:14:33] [METERS] Data restored in meters.json
+[2025-09-27 14:14:34] [REST device_1] first conn attempt 2
+[2025-09-27 14:14:34] [METERS device_1] first conn attempt 2
+[2025-09-27 14:14:34] [METERS device_2] first conn attempt 2
+[2025-09-27 14:14:34] [REST device_2] first conn attempt 2
+[2025-09-27 14:14:35] [REST device_3] first conn attempt 2
+[2025-09-27 14:14:35] [METERS device_3] first conn attempt 2
+[2025-09-27 14:14:35] [MQTT] went OFFLINE (network Error : dial tcp 192.168.1.153:1883: connect: no route to host)
+[2025-09-27 14:14:36] [METERS device_1] first conn attempt 3
+[2025-09-27 14:14:36] [REST device_1] first conn attempt 3
+[2025-09-27 14:14:36] [METERS device_2] first conn attempt 3
+[2025-09-27 14:14:36] [REST device_2] first conn attempt 3
+[2025-09-27 14:14:37] [METERS device_3] first conn attempt 3
+[2025-09-27 14:14:37] [REST device_3] first conn attempt 3
+[2025-09-27 14:14:38] [METERS] No data in meters.json or error reading from file
+[2025-09-27 14:21:56] [SYSTEM] Stop signal received – shutting down.
+[2025-09-27 14:22:06] [SYSTEM] Program started
+[2025-09-27 14:22:06] [OEE] Loaded data
+[2025-09-27 14:22:06] [MQTT] First connect attempt
+[2025-09-27 14:22:06] [METERS device_2] first conn attempt 1
+[2025-09-27 14:22:06] [METERS device_3] first conn attempt 1
+[2025-09-27 14:22:06] [METERS device_1] first conn attempt 1
+[2025-09-27 14:22:06] [REST device_1] first conn attempt 1
+[2025-09-27 14:22:06] [REST device_3] first conn attempt 1
+[2025-09-27 14:22:06] [REST device_2] first conn attempt 1
+[2025-09-27 14:22:06] [SHIFT] Prev shift (UTC): start=2025-09-27T12:00:00Z, end=2025-09-27T20:00:00Z
+[2025-09-27 14:22:06] [SYSTEM] App is alive
+[2025-09-27 14:22:06] [OEE_TEMP] Data restored in oee.json
+[2025-09-27 14:22:06] [FLOW] Data restored in mqttFlow.json
+[2025-09-27 14:22:06] [METERS device_1] first conn attempt 2
+[2025-09-27 14:22:06] [REST device_1] first conn attempt 2
+[2025-09-27 14:22:06] [REST device_2] first conn attempt 2
+[2025-09-27 14:22:06] [METERS device_2] first conn attempt 2
+[2025-09-27 14:22:06] [METERS device_3] first conn attempt 2
+[2025-09-27 14:22:06] [REST device_3] first conn attempt 2
+[2025-09-27 14:22:08] [METERS device_1] first conn attempt 3
+[2025-09-27 14:22:08] [REST device_1] first conn attempt 3
+[2025-09-27 14:22:08] [METERS device_2] first conn attempt 3
+[2025-09-27 14:22:08] [REST device_2] first conn attempt 3
+[2025-09-27 14:22:08] [METERS device_3] first conn attempt 3
+[2025-09-27 14:22:08] [REST device_3] first conn attempt 3
+[2025-09-27 14:22:09] [MQTT] went OFFLINE (network Error : dial tcp 192.168.1.153:1883: connect: no route to host)
+[2025-09-27 14:52:06] [SYSTEM] App is alive
+[2025-09-27 15:22:06] [SYSTEM] App is alive
+[2025-09-27 15:52:06] [SYSTEM] App is alive
+[2025-09-27 16:22:06] [SYSTEM] App is alive
+[2025-09-27 16:52:06] [SYSTEM] App is alive
+[2025-09-27 17:22:06] [SYSTEM] App is alive
+[2025-09-27 17:52:06] [SYSTEM] App is alive
+[2025-09-27 18:22:06] [SYSTEM] App is alive
+[2025-09-27 18:52:06] [SYSTEM] App is alive
+[2025-09-27 19:22:06] [SYSTEM] App is alive
+[2025-09-27 19:52:06] [SYSTEM] App is alive
+[2025-09-27 20:22:06] [SYSTEM] App is alive
+[2025-09-27 20:52:06] [SYSTEM] App is alive
+[2025-09-27 21:22:06] [SYSTEM] App is alive
+[2025-09-27 21:52:06] [SYSTEM] App is alive
+[2025-09-27 22:00:00] [SHIFT_SUMMARY] Data restored in shift_summary.json
+[2025-09-27 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-27 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-27 22:00:00] [SHIFT] Boundary passed – local: 2025-09-27T22:00:00.049483589+02:00, UTC: 2025-09-27T20:00:00.049483589Z
+[2025-09-27 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-27T20:00:00Z, end=2025-09-28T04:00:00Z
+[2025-09-27 22:22:06] [SYSTEM] App is alive
+[2025-09-27 22:52:06] [SYSTEM] App is alive
+[2025-09-27 23:22:06] [SYSTEM] App is alive
+[2025-09-27 23:52:06] [SYSTEM] App is alive
+[2025-09-28 00:22:06] [SYSTEM] App is alive
+[2025-09-28 00:52:06] [SYSTEM] App is alive
+[2025-09-28 01:22:06] [SYSTEM] App is alive
+[2025-09-28 01:52:06] [SYSTEM] App is alive
+[2025-09-28 02:22:06] [SYSTEM] App is alive
+[2025-09-28 02:52:06] [SYSTEM] App is alive
+[2025-09-28 03:22:06] [SYSTEM] App is alive
+[2025-09-28 03:52:06] [SYSTEM] App is alive
+[2025-09-28 04:22:06] [SYSTEM] App is alive
+[2025-09-28 04:52:06] [SYSTEM] App is alive
+[2025-09-28 05:22:06] [SYSTEM] App is alive
+[2025-09-28 05:52:06] [SYSTEM] App is alive
+[2025-09-28 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-28 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-28 06:00:00] [SHIFT] Boundary passed – local: 2025-09-28T06:00:00.058414994+02:00, UTC: 2025-09-28T04:00:00.058414994Z
+[2025-09-28 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-28T04:00:00Z, end=2025-09-28T12:00:00Z
+[2025-09-28 06:22:06] [SYSTEM] App is alive
+[2025-09-28 06:52:06] [SYSTEM] App is alive
+[2025-09-28 07:22:06] [SYSTEM] App is alive
+[2025-09-28 07:52:06] [SYSTEM] App is alive
+[2025-09-28 08:22:06] [SYSTEM] App is alive
+[2025-09-28 08:52:06] [SYSTEM] App is alive
+[2025-09-28 09:22:06] [SYSTEM] App is alive
+[2025-09-28 09:52:06] [SYSTEM] App is alive
+[2025-09-28 10:22:06] [SYSTEM] App is alive
+[2025-09-28 10:52:06] [SYSTEM] App is alive
+[2025-09-28 11:22:06] [SYSTEM] App is alive
+[2025-09-28 11:52:06] [SYSTEM] App is alive
+[2025-09-28 12:22:06] [SYSTEM] App is alive
+[2025-09-28 12:52:06] [SYSTEM] App is alive
+[2025-09-28 13:22:06] [SYSTEM] App is alive
+[2025-09-28 13:52:06] [SYSTEM] App is alive
+[2025-09-28 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-28 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-28 14:00:00] [SHIFT] Boundary passed – local: 2025-09-28T14:00:00.047168923+02:00, UTC: 2025-09-28T12:00:00.047168923Z
+[2025-09-28 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-28T12:00:00Z, end=2025-09-28T20:00:00Z
+[2025-09-28 14:22:06] [SYSTEM] App is alive
+[2025-09-28 14:52:06] [SYSTEM] App is alive
+[2025-09-28 15:22:06] [SYSTEM] App is alive
+[2025-09-28 15:52:06] [SYSTEM] App is alive
+[2025-09-28 16:22:06] [SYSTEM] App is alive
+[2025-09-28 16:52:06] [SYSTEM] App is alive
+[2025-09-28 17:22:06] [SYSTEM] App is alive
+[2025-09-28 17:52:06] [SYSTEM] App is alive
+[2025-09-28 18:22:06] [SYSTEM] App is alive
+[2025-09-28 18:52:06] [SYSTEM] App is alive
+[2025-09-28 19:22:06] [SYSTEM] App is alive
+[2025-09-28 19:52:06] [SYSTEM] App is alive
+[2025-09-28 20:22:06] [SYSTEM] App is alive
+[2025-09-28 20:52:06] [SYSTEM] App is alive
+[2025-09-28 21:22:06] [SYSTEM] App is alive
+[2025-09-28 21:52:06] [SYSTEM] App is alive
+[2025-09-28 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-28 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-28 22:00:00] [SHIFT] Boundary passed – local: 2025-09-28T22:00:00.053910365+02:00, UTC: 2025-09-28T20:00:00.053910365Z
+[2025-09-28 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-28T20:00:00Z, end=2025-09-29T04:00:00Z
+[2025-09-28 22:22:06] [SYSTEM] App is alive
+[2025-09-28 22:52:06] [SYSTEM] App is alive
+[2025-09-28 23:22:06] [SYSTEM] App is alive
+[2025-09-28 23:52:06] [SYSTEM] App is alive
+[2025-09-29 00:22:06] [SYSTEM] App is alive
+[2025-09-29 00:52:06] [SYSTEM] App is alive
+[2025-09-29 01:22:06] [SYSTEM] App is alive
+[2025-09-29 01:52:06] [SYSTEM] App is alive
+[2025-09-29 02:22:06] [SYSTEM] App is alive
+[2025-09-29 02:52:06] [SYSTEM] App is alive
+[2025-09-29 03:22:06] [SYSTEM] App is alive
+[2025-09-29 03:52:06] [SYSTEM] App is alive
+[2025-09-29 04:22:06] [SYSTEM] App is alive
+[2025-09-29 04:52:06] [SYSTEM] App is alive
+[2025-09-29 05:22:06] [SYSTEM] App is alive
+[2025-09-29 05:43:47] [METERS device_1] is ONLINE again
+[2025-09-29 05:43:47] [REST device_1] is ONLINE again
+[2025-09-29 05:43:49] [MEASUREMENTS] Data restored in measurements.json
+[2025-09-29 05:43:52] [METERS] Data restored in meters.json
+[2025-09-29 05:44:15] [METERS device_2] is ONLINE again
+[2025-09-29 05:44:15] [REST device_2] is ONLINE again
+[2025-09-29 05:44:18] [MQTT] Client running, waiting for messages
+[2025-09-29 05:44:18] [MQTT] Connected to broker
+[2025-09-29 05:44:18] [MQTT] is ONLINE again
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port1/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port2/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port1/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port2/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port3/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master1/iolink/devices/port4/data/fromdevice
+[2025-09-29 05:44:18] [MQTT] Subscribed: balluff/cmtk/master2/iolink/devices/port0/data/fromdevice
+[2025-09-29 05:52:06] [SYSTEM] App is alive
+[2025-09-29 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-29 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-29 06:00:00] [SHIFT] Boundary passed – local: 2025-09-29T06:00:00.043459057+02:00, UTC: 2025-09-29T04:00:00.043459057Z
+[2025-09-29 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-29T04:00:00Z, end=2025-09-29T12:00:00Z
+[2025-09-29 06:09:01] [REST device_3] is ONLINE again
+[2025-09-29 06:09:01] [METERS device_3] is ONLINE again
+[2025-09-29 06:22:06] [SYSTEM] App is alive
+[2025-09-29 06:52:06] [SYSTEM] App is alive
+[2025-09-29 07:22:06] [SYSTEM] App is alive
+[2025-09-29 07:52:06] [SYSTEM] App is alive
+[2025-09-29 08:22:06] [SYSTEM] App is alive
+[2025-09-29 08:52:06] [SYSTEM] App is alive
+[2025-09-29 09:22:06] [SYSTEM] App is alive
+[2025-09-29 09:52:06] [SYSTEM] App is alive
+[2025-09-29 10:22:06] [SYSTEM] App is alive
+[2025-09-29 10:52:06] [SYSTEM] App is alive
+[2025-09-29 11:22:06] [SYSTEM] App is alive
+[2025-09-29 11:52:06] [SYSTEM] App is alive
+[2025-09-29 12:22:06] [SYSTEM] App is alive
+[2025-09-29 12:52:06] [SYSTEM] App is alive
+[2025-09-29 13:22:06] [SYSTEM] App is alive
+[2025-09-29 13:52:06] [SYSTEM] App is alive
+[2025-09-29 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-29 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-29 14:00:00] [SHIFT] Boundary passed – local: 2025-09-29T14:00:00.050943938+02:00, UTC: 2025-09-29T12:00:00.050943938Z
+[2025-09-29 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-29T12:00:00Z, end=2025-09-29T20:00:00Z
+[2025-09-29 14:22:06] [SYSTEM] App is alive
+[2025-09-29 14:52:06] [SYSTEM] App is alive
+[2025-09-29 15:22:06] [SYSTEM] App is alive
+[2025-09-29 15:52:06] [SYSTEM] App is alive
+[2025-09-29 16:22:06] [SYSTEM] App is alive
+[2025-09-29 16:52:06] [SYSTEM] App is alive
+[2025-09-29 17:22:06] [SYSTEM] App is alive
+[2025-09-29 17:52:06] [SYSTEM] App is alive
+[2025-09-29 18:22:06] [SYSTEM] App is alive
+[2025-09-29 18:52:06] [SYSTEM] App is alive
+[2025-09-29 19:22:06] [SYSTEM] App is alive
+[2025-09-29 19:52:06] [SYSTEM] App is alive
+[2025-09-29 20:22:06] [SYSTEM] App is alive
+[2025-09-29 20:52:06] [SYSTEM] App is alive
+[2025-09-29 21:22:06] [SYSTEM] App is alive
+[2025-09-29 21:52:06] [SYSTEM] App is alive
+[2025-09-29 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-29 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-29 22:00:00] [SHIFT] Boundary passed – local: 2025-09-29T22:00:00.052312633+02:00, UTC: 2025-09-29T20:00:00.052312633Z
+[2025-09-29 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-29T20:00:00Z, end=2025-09-30T04:00:00Z
+[2025-09-29 22:14:26] [METERS device_2] went OFFLINE
+[2025-09-29 22:14:26] [REST device_2] went OFFLINE
+[2025-09-29 22:15:06] [METERS device_2] is ONLINE again
+[2025-09-29 22:15:06] [REST device_2] is ONLINE again
+[2025-09-29 22:22:06] [SYSTEM] App is alive
+[2025-09-29 22:52:06] [SYSTEM] App is alive
+[2025-09-29 23:22:06] [SYSTEM] App is alive
+[2025-09-29 23:52:06] [SYSTEM] App is alive
+[2025-09-30 00:22:06] [SYSTEM] App is alive
+[2025-09-30 00:52:06] [SYSTEM] App is alive
+[2025-09-30 01:22:06] [SYSTEM] App is alive
+[2025-09-30 01:52:06] [SYSTEM] App is alive
+[2025-09-30 02:22:06] [SYSTEM] App is alive
+[2025-09-30 02:52:06] [SYSTEM] App is alive
+[2025-09-30 03:22:06] [SYSTEM] App is alive
+[2025-09-30 03:52:06] [SYSTEM] App is alive
+[2025-09-30 04:22:06] [SYSTEM] App is alive
+[2025-09-30 04:52:06] [SYSTEM] App is alive
+[2025-09-30 05:22:06] [SYSTEM] App is alive
+[2025-09-30 05:52:06] [SYSTEM] App is alive
+[2025-09-30 06:00:00] [OEE] OEE data reset after shift ended
+[2025-09-30 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-30 06:00:00] [SHIFT] Boundary passed – local: 2025-09-30T06:00:00.061082411+02:00, UTC: 2025-09-30T04:00:00.061082411Z
+[2025-09-30 06:00:00] [SHIFT] Prev shift (UTC): start=2025-09-30T04:00:00Z, end=2025-09-30T12:00:00Z
+[2025-09-30 06:22:06] [SYSTEM] App is alive
+[2025-09-30 06:52:06] [SYSTEM] App is alive
+[2025-09-30 07:22:06] [SYSTEM] App is alive
+[2025-09-30 07:52:06] [SYSTEM] App is alive
+[2025-09-30 08:22:06] [SYSTEM] App is alive
+[2025-09-30 08:52:06] [SYSTEM] App is alive
+[2025-09-30 09:22:06] [SYSTEM] App is alive
+[2025-09-30 09:52:06] [SYSTEM] App is alive
+[2025-09-30 10:22:06] [SYSTEM] App is alive
+[2025-09-30 10:52:06] [SYSTEM] App is alive
+[2025-09-30 11:22:06] [SYSTEM] App is alive
+[2025-09-30 11:52:06] [SYSTEM] App is alive
+[2025-09-30 12:22:06] [SYSTEM] App is alive
+[2025-09-30 12:52:06] [SYSTEM] App is alive
+[2025-09-30 13:22:06] [SYSTEM] App is alive
+[2025-09-30 13:52:06] [SYSTEM] App is alive
+[2025-09-30 14:00:00] [OEE] OEE data reset after shift ended
+[2025-09-30 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-30 14:00:00] [SHIFT] Boundary passed – local: 2025-09-30T14:00:00.059705214+02:00, UTC: 2025-09-30T12:00:00.059705214Z
+[2025-09-30 14:00:00] [SHIFT] Prev shift (UTC): start=2025-09-30T12:00:00Z, end=2025-09-30T20:00:00Z
+[2025-09-30 14:22:06] [SYSTEM] App is alive
+[2025-09-30 14:52:06] [SYSTEM] App is alive
+[2025-09-30 15:22:06] [SYSTEM] App is alive
+[2025-09-30 15:52:06] [SYSTEM] App is alive
+[2025-09-30 16:22:06] [SYSTEM] App is alive
+[2025-09-30 16:52:06] [SYSTEM] App is alive
+[2025-09-30 17:22:06] [SYSTEM] App is alive
+[2025-09-30 17:52:06] [SYSTEM] App is alive
+[2025-09-30 18:22:06] [SYSTEM] App is alive
+[2025-09-30 18:52:06] [SYSTEM] App is alive
+[2025-09-30 19:22:06] [SYSTEM] App is alive
+[2025-09-30 19:52:06] [SYSTEM] App is alive
+[2025-09-30 20:22:06] [SYSTEM] App is alive
+[2025-09-30 20:52:06] [SYSTEM] App is alive
+[2025-09-30 21:22:06] [SYSTEM] App is alive
+[2025-09-30 21:52:06] [SYSTEM] App is alive
+[2025-09-30 22:00:00] [OEE] OEE data reset after shift ended
+[2025-09-30 22:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-09-30 22:00:00] [SHIFT] Boundary passed – local: 2025-09-30T22:00:00.064461099+02:00, UTC: 2025-09-30T20:00:00.064461099Z
+[2025-09-30 22:00:00] [SHIFT] Prev shift (UTC): start=2025-09-30T20:00:00Z, end=2025-10-01T04:00:00Z
+[2025-09-30 22:22:06] [SYSTEM] App is alive
+[2025-09-30 22:52:06] [SYSTEM] App is alive
+[2025-09-30 23:22:06] [SYSTEM] App is alive
+[2025-09-30 23:52:06] [SYSTEM] App is alive
+[2025-10-01 00:22:06] [SYSTEM] App is alive
+[2025-10-01 00:52:06] [SYSTEM] App is alive
+[2025-10-01 01:22:06] [SYSTEM] App is alive
+[2025-10-01 01:52:06] [SYSTEM] App is alive
+[2025-10-01 02:22:06] [SYSTEM] App is alive
+[2025-10-01 02:52:06] [SYSTEM] App is alive
+[2025-10-01 03:22:06] [SYSTEM] App is alive
+[2025-10-01 03:52:06] [SYSTEM] App is alive
+[2025-10-01 04:22:06] [SYSTEM] App is alive
+[2025-10-01 04:52:06] [SYSTEM] App is alive
+[2025-10-01 05:22:06] [SYSTEM] App is alive
+[2025-10-01 05:52:06] [SYSTEM] App is alive
+[2025-10-01 06:00:00] [OEE] OEE data reset after shift ended
+[2025-10-01 06:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-10-01 06:00:00] [SHIFT] Boundary passed – local: 2025-10-01T06:00:00.061202226+02:00, UTC: 2025-10-01T04:00:00.061202226Z
+[2025-10-01 06:00:00] [SHIFT] Prev shift (UTC): start=2025-10-01T04:00:00Z, end=2025-10-01T12:00:00Z
+[2025-10-01 06:22:06] [SYSTEM] App is alive
+[2025-10-01 06:52:06] [SYSTEM] App is alive
+[2025-10-01 07:22:06] [SYSTEM] App is alive
+[2025-10-01 07:52:06] [SYSTEM] App is alive
+[2025-10-01 08:22:06] [SYSTEM] App is alive
+[2025-10-01 08:52:06] [SYSTEM] App is alive
+[2025-10-01 09:22:06] [SYSTEM] App is alive
+[2025-10-01 09:52:06] [SYSTEM] App is alive
+[2025-10-01 10:22:06] [SYSTEM] App is alive
+[2025-10-01 10:52:06] [SYSTEM] App is alive
+[2025-10-01 11:22:06] [SYSTEM] App is alive
+[2025-10-01 11:52:06] [SYSTEM] App is alive
+[2025-10-01 12:22:06] [SYSTEM] App is alive
+[2025-10-01 12:52:06] [SYSTEM] App is alive
+[2025-10-01 13:22:06] [SYSTEM] App is alive
+[2025-10-01 13:52:06] [SYSTEM] App is alive
+[2025-10-01 14:00:00] [OEE] OEE data reset after shift ended
+[2025-10-01 14:00:00] [OEE] Reset state saved to OEE file (flat)
+[2025-10-01 14:00:00] [SHIFT] Boundary passed – local: 2025-10-01T14:00:00.066536437+02:00, UTC: 2025-10-01T12:00:00.066536437Z
+[2025-10-01 14:00:00] [SHIFT] Prev shift (UTC): start=2025-10-01T12:00:00Z, end=2025-10-01T20:00:00Z
+[2025-10-01 14:22:06] [SYSTEM] App is alive
+[2025-10-01 14:52:06] [SYSTEM] App is alive

@@ -1,0 +1,16 @@
+{
+    "master1/port1": {
+        "Elementy": false,
+        "Predkosc_sygnal": true,
+        "is_valid": true,
+        "maszyna_on/off": true,
+        "timestamp": "2025-10-01T13:12:31.049404021Z"
+    },
+    "master1/port2": {
+        "Dlugosc": 8102,
+        "Szerokosc": 3797,
+        "Wysokosc": 2040,
+        "is_valid": true,
+        "timestamp": "2025-10-01T13:12:31.049404021Z"
+    }
+}

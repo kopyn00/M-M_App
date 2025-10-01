@@ -1,0 +1,47 @@
+{
+    "master1/port3": {
+        "device_status": 0,
+        "flow": 146,
+        "is_valid": true,
+        "pressure": 667,
+        "temperature": 2550,
+        "timestamp": "2025-10-01T13:12:31.049404021Z",
+        "totaliser": 109119.1015625
+    },
+    "master1/port4": {
+        "device_status": 0,
+        "flow": 85,
+        "is_valid": true,
+        "pressure": 667,
+        "temperature": 2180,
+        "timestamp": "2025-10-01T13:12:31.049404021Z",
+        "totaliser": 29990.943359375
+    },
+    "master2/port0": {
+        "device_status": 0,
+        "flow": 1158,
+        "is_valid": true,
+        "pressure": 666,
+        "temperature": 2200,
+        "timestamp": "2025-10-01T13:12:30.916314476Z",
+        "totaliser": 9486.822265625
+    },
+    "master2/port1": {
+        "device_status": 0,
+        "flow": 682,
+        "is_valid": true,
+        "pressure": 666,
+        "temperature": 2610,
+        "timestamp": "2025-10-01T13:12:30.916314476Z",
+        "totaliser": 109308.6015625
+    },
+    "master2/port2": {
+        "device_status": 0,
+        "flow": 0,
+        "is_valid": true,
+        "pressure": 668,
+        "temperature": 2340,
+        "timestamp": "2025-10-01T13:12:30.916314476Z",
+        "totaliser": 8572.2802734375
+    }
+}

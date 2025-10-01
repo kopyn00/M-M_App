@@ -1,0 +1,746 @@
+{
+    "device_1": [
+        {
+            "id": "ea_pos_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 33150004
+        },
+        {
+            "id": "ea_neg_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "er_pos_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 18671.455
+        },
+        {
+            "id": "er_neg_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 26654802
+        },
+        {
+            "id": "es_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 55887084
+        },
+        {
+            "id": "er_total",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 41601352
+        },
+        {
+            "id": "ea_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 14585486
+        },
+        {
+            "id": "ea_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "er_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 4020.222
+        },
+        {
+            "id": "er_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 9264022
+        },
+        {
+            "id": "es",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 22631782
+        },
+        {
+            "id": "er",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 16146458
+        },
+        {
+            "id": "e_runtime",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "s",
+            "value": 5537563
+        },
+        {
+            "id": "t1_ea_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 3921428.25
+        },
+        {
+            "id": "t1_ea_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "t1_er_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 972.444
+        },
+        {
+            "id": "t1_er_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 1646494
+        },
+        {
+            "id": "t1_es",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 5422704.5
+        },
+        {
+            "id": "t1_er",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 3590723.25
+        },
+        {
+            "id": "t1_runtime",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "s",
+            "value": 1079731
+        },
+        {
+            "id": "t2_ea_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 5357199
+        },
+        {
+            "id": "t2_ea_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "t2_er_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 2332.667
+        },
+        {
+            "id": "t2_er_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 2147184.25
+        },
+        {
+            "id": "t2_es",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 7332384.5
+        },
+        {
+            "id": "t2_er",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 4832016
+        },
+        {
+            "id": "t2_runtime",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "s",
+            "value": 1439584
+        },
+        {
+            "id": "t3_ea_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 2988089.75
+        },
+        {
+            "id": "t3_ea_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "t3_er_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 298
+        },
+        {
+            "id": "t3_er_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 2522142.75
+        },
+        {
+            "id": "t3_es",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 5093618.5
+        },
+        {
+            "id": "t3_er",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 3840459.5
+        },
+        {
+            "id": "t3_runtime",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "s",
+            "value": 1410798
+        },
+        {
+            "id": "t4_ea_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 882822.688
+        },
+        {
+            "id": "t4_ea_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "Wh",
+            "value": 0
+        },
+        {
+            "id": "t4_er_pos",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 137.333
+        },
+        {
+            "id": "t4_er_neg",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 1779269.5
+        },
+        {
+            "id": "t4_es",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "VAh",
+            "value": 2360593.75
+        },
+        {
+            "id": "t4_er",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "varh",
+            "value": 2078478.625
+        },
+        {
+            "id": "t4_runtime",
+            "timestamp": "2025-10-01T13:12:30Z",
+            "unit": "s",
+            "value": 943033
+        }
+    ],
+    "device_2": [
+        {
+            "id": "ea_pos_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 7777123
+        },
+        {
+            "id": "ea_neg_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 9489047
+        },
+        {
+            "id": "er_pos_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 10381080
+        },
+        {
+            "id": "er_neg_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 8785186
+        },
+        {
+            "id": "es_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 33410066
+        },
+        {
+            "id": "er_total",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 26800050
+        },
+        {
+            "id": "ea_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 5106270.5
+        },
+        {
+            "id": "ea_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 6293943
+        },
+        {
+            "id": "er_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 6950081
+        },
+        {
+            "id": "er_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 5684668.5
+        },
+        {
+            "id": "es",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 22251128
+        },
+        {
+            "id": "er",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 18050032
+        },
+        {
+            "id": "e_runtime",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "s",
+            "value": 5528400
+        },
+        {
+            "id": "t1_ea_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 1682880.25
+        },
+        {
+            "id": "t1_ea_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 2102382.75
+        },
+        {
+            "id": "t1_er_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 2362302.25
+        },
+        {
+            "id": "t1_er_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 1839711.75
+        },
+        {
+            "id": "t1_es",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 7489158.5
+        },
+        {
+            "id": "t1_er",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 6176004.5
+        },
+        {
+            "id": "t1_runtime",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "s",
+            "value": 1430789
+        },
+        {
+            "id": "t2_ea_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 1718371.75
+        },
+        {
+            "id": "t2_ea_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 2146910
+        },
+        {
+            "id": "t2_er_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 2385426.75
+        },
+        {
+            "id": "t2_er_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 1865239.875
+        },
+        {
+            "id": "t2_es",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 7639728.5
+        },
+        {
+            "id": "t2_er",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 6303929.5
+        },
+        {
+            "id": "t2_runtime",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "s",
+            "value": 1440241
+        },
+        {
+            "id": "t3_ea_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 1115642.5
+        },
+        {
+            "id": "t3_ea_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 1388297
+        },
+        {
+            "id": "t3_er_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 1529164.625
+        },
+        {
+            "id": "t3_er_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 1265044.625
+        },
+        {
+            "id": "t3_es",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 4839817.5
+        },
+        {
+            "id": "t3_er",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 3879490.25
+        },
+        {
+            "id": "t3_runtime",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "s",
+            "value": 1410971
+        },
+        {
+            "id": "t4_ea_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 471863
+        },
+        {
+            "id": "t4_ea_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "Wh",
+            "value": 522951.688
+        },
+        {
+            "id": "t4_er_pos",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 533696.813
+        },
+        {
+            "id": "t4_er_neg",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 563205.125
+        },
+        {
+            "id": "t4_es",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "VAh",
+            "value": 1829337.5
+        },
+        {
+            "id": "t4_er",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "varh",
+            "value": 1368778.625
+        },
+        {
+            "id": "t4_runtime",
+            "timestamp": "2025-10-01T13:12:34Z",
+            "unit": "s",
+            "value": 941570
+        }
+    ],
+    "device_3": [
+        {
+            "id": "ea_pos_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 9363570
+        },
+        {
+            "id": "ea_neg_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 48889.832
+        },
+        {
+            "id": "er_pos_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 5387894
+        },
+        {
+            "id": "er_neg_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 6343270
+        },
+        {
+            "id": "es_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 17244620
+        },
+        {
+            "id": "er_total",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 13383580
+        },
+        {
+            "id": "ea_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 6016728.5
+        },
+        {
+            "id": "ea_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 38324.332
+        },
+        {
+            "id": "er_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 3792330
+        },
+        {
+            "id": "er_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 3042823
+        },
+        {
+            "id": "es",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 10580431
+        },
+        {
+            "id": "er",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 7977593
+        },
+        {
+            "id": "e_runtime",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "s",
+            "value": 5536720
+        },
+        {
+            "id": "t1_ea_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 2086963.375
+        },
+        {
+            "id": "t1_ea_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 14415.833
+        },
+        {
+            "id": "t1_er_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 1442836.5
+        },
+        {
+            "id": "t1_er_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 383884.844
+        },
+        {
+            "id": "t1_es",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 3178727
+        },
+        {
+            "id": "t1_er",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 2215908
+        },
+        {
+            "id": "t1_runtime",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "s",
+            "value": 1439175
+        },
+        {
+            "id": "t2_ea_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 2147504.75
+        },
+        {
+            "id": "t2_ea_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 16212.167
+        },
+        {
+            "id": "t2_er_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 1493114.125
+        },
+        {
+            "id": "t2_er_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 357975
+        },
+        {
+            "id": "t2_es",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 3241422
+        },
+        {
+            "id": "t2_er",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 2251516
+        },
+        {
+            "id": "t2_runtime",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "s",
+            "value": 1440144
+        },
+        {
+            "id": "t3_ea_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 1298720.875
+        },
+        {
+            "id": "t3_ea_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 6498.5
+        },
+        {
+            "id": "t3_er_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 722123.688
+        },
+        {
+            "id": "t3_er_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 1039593
+        },
+        {
+            "id": "t3_es",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 2539202.25
+        },
+        {
+            "id": "t3_er",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 2014867
+        },
+        {
+            "id": "t3_runtime",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "s",
+            "value": 1410553
+        },
+        {
+            "id": "t4_ea_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 404462
+        },
+        {
+            "id": "t4_ea_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "Wh",
+            "value": 1197.833
+        },
+        {
+            "id": "t4_er_pos",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 134066.5
+        },
+        {
+            "id": "t4_er_neg",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 926375.188
+        },
+        {
+            "id": "t4_es",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "VAh",
+            "value": 1258275.125
+        },
+        {
+            "id": "t4_er",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "varh",
+            "value": 1142710.5
+        },
+        {
+            "id": "t4_runtime",
+            "timestamp": "2025-10-01T13:12:29Z",
+            "unit": "s",
+            "value": 942975
+        }
+    ]
+}
