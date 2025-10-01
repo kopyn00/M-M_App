@@ -2,7 +2,7 @@
 
 This software is proprietary and licensed for commercial use only.
 
-Copyright © [MMMapp], 2025. All rights reserved.
+Copyright © [M&M_App], 2025. All rights reserved.
 
 This software and accompanying files are not open-source and are provided only under a paid license agreement. By installing, copying, or using this software, you agree to the following terms:
 
@@ -31,7 +31,7 @@ This software is provided "as is", without warranty of any kind. The author is n
 
 This software includes third-party open-source components. Their respective licenses and terms are included in the file:
 
-**THIRD_PARTY_LICENSES_FULL.md**
+**THIRD_PARTY_LICENSES.md**
 
 ---
 
